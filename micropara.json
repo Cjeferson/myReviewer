@@ -1,0 +1,5125 @@
+{
+  "title": "Microbiology & Parasitology Quiz",
+  "sets": {
+    "Bacteriology": [
+      {
+        "question": "3. Capsules can be used for a",
+        "choices": {
+          "A": "Complement fixation",
+          "B": "Hemagglutination test",
+          "C": "Serotyping by swelling",
+          "D": "Precipitation test"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "4.To demonstrate capsules, grow the culture on media containing",
+        "choices": {
+          "A": "Antibiotics",
+          "B": "Milk",
+          "C": "Serum",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "5. The Quellung test depends on the antigenic specificity of the",
+        "choices": {
+          "A": "Nucleus",
+          "B": "Cell wall",
+          "C": "Flagella",
+          "D": "Capsule"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "6. Dark staining granules are called",
+        "choices": {
+          "A": "Spores",
+          "B": "Capsules",
+          "C": "Cysts",
+          "D": "Metachromatic"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "7. Organisnis that vary in size and shape are referred to as",
+        "choices": {
+          "A": "Psychrophilic",
+          "B": "Thermophilic",
+          "C": "Palisades",
+          "D": "Pleomorphic"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "8. In the bacterial growth cycle, growth ceases because nutrients are exhausted or toxic metabolic products have ' accumulated in the: i",
+        "choices": {
+          "A": "Stationary phase",
+          "B": "Logarithmic phase",
+          "C": "Lag phase",
+          "D": "A and B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "9. Which genera of bacteria form spores?",
+        "choices": {
+          "A": "Corynebacterium",
+          "B": "Bacillus",
+          "C": "Clostridium",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "10. Bacteria that grow in the absence of atmospheric (free) oxygen and obtain oxygen from oxygen-containing compounds are called",
+        "choices": {
+          "A": "Anaerobes.",
+          "B": "Aerobes",
+          "C": "Capnopniles",
+          "D": "Aerotolerants"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "11. The temperature at which bacteria grow best is known as",
+        "choices": {
+          "A": "Thermophilic",
+          "B": "Psychrophilic",
+          "C": "Optimum",
+          "D": "Mesophilic"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "12. A slimy colony on blood agar medium indicates which of the following characteristics inay be present?",
+        "choices": {
+          "A": "Blood agar is tco oid",
+          "B": "Organism has a capsule",
+          "C": "Plate was incubated too long",
+          "D": "Plate was incubated ai too high temperaiure"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "13. On blood agar plates a small zone of alpha-hemolysis, surrounded by zone of beta-hemolysis after refrigeration is known as",
+        "choices": {
+          "A": "Gamma-hemolysis",
+          "B": "Beta-hemolysis",
+          "C": "Alpha-hemolysis",
+          "D": "Alpha-prime"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "14. When using fractional sterilization the sequence is",
+        "choices": {
+          "A": "Heating (kills vegetative bacteria)",
+          "B": "Incubation (spores germinate)",
+          "C": "Heating (kills remaining vegetative bacteria) i",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "15. What is the most effective method of sterilization?",
+        "choices": {
+          "A": "Autoclave",
+          "B": "Dry heat oven",
+          "C": "Boiling",
+          "D": "Disinfection"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "16. Which of the following is used for quality control for the dry heat oven?",
+        "choices": {
+          "A": "Bacillus subtilis",
+          "B": "Bacillus stearothermophilus",
+          "C": "Staphyiococcus aureus",
+          "D": "Salmonella typhi"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "17. Which of the following filters can give 100% sterility?, sewer Als Seitz",
+        "choices": {
+          "A": "Seitz",
+          "B": "Millipore (0.22 um)",
+          "C": "Millipore (0.5 um)",
+          "D": "A and B"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "18. Media that cannot be heated can oe sterilized by",
+        "choices": {
+          "A": "Filtration",
+          "B": "Chemical disinfectants",
+          "C": "Antiseptics",
+          "D": "Cannot be sterilized"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "19. Which of the following is not a disinfectant?",
+        "choices": {
+          "A": "Phenol",
+          "B": "70% alcohol",
+          "C": "QUATS",
+          "D": "2% aqueous glutaraldehyde"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "20. Iodophors are composed of iodine and: '",
+        "choices": {
+          "A": "Phenolic compound",
+          "B": "Detergent",
+          "C": "70% alcohol",
+          "D": "90-95% alcohol"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "21. Quaternary ammonium disinfectants are easily inactivated by",
+        "choices": {
+          "A": "Heat",
+          "B": "P. aeruginosa",
+          "C": "Organic material",
+          "D": "tap water é"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "22. What is a term that describes a process or treatment that renders a medical device, instrument, or environmental surface safe to handle?",
+        "choices": {
+          "A": "Decontamination.",
+          "B": "Antisepsis",
+          "C": "Disinfectant",
+          "D": "Sterile"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "23. What do gram-positive bacteria stain?",
+        "choices": {
+          "A": "Purple i'",
+          "B": "Green",
+          "C": "Red",
+          "D": "Maroon"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "24. The mordant used in the Ziehl-Neelsen acid-fast stain is",
+        "choices": {
+          "A": "Gram's iodine",
+          "B": "Auramine",
+          "C": "Heat",
+          "D": "Acid-alcohol"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "25. How is smear for an acid-fast stain fixed?",
+        "choices": {
+          "A": "Methyl alcohol",
+          "B": "Acid alcohol",
+          "C": "Tergitol no, 7",
+          "D": "Slide warmer at 65 C for 2 hours"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "26. Acid-fast bacteria appear what color microscopically?",
+        "choices": {
+          "A": "Red",
+          "B": "Blue",
+          "C": "Green",
+          "D": "Purple"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "27. Acid-fast organisms in tissue are best stained by which of the following methods?",
+        "choices": {
+          "A": "Hiss",
+          "B": "Kinyoun",
+          "C": "Ziehl-Neelsen",
+          "D": "Negative stain \"4"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "28. In the Ziehl-Neelsen staining method, the decolorizer is: ( t",
+        "choices": {
+          "A": "Heated saline",
+          "B": "Acetone\" -",
+          "C": "Acetone+alcohol",
+          "D": "Alcohol + HCI"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "29. An example of a negative stain Is:.",
+        "choices": {
+          "A": "Auramine - rhodamine stain",
+          "B": "Gram stain.",
+          "C": "India Ink stain",
+          "D": "Methylene blue stain"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "30. Which of the following is NOT gram-negative? '",
+        "choices": {
+          "A": "Peptococcus",
+          "B": "Salmonella",
+          "C": "Branhamella",
+          "D": "Aeromonas"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "31. Which of the following is NOT an anaerobe?",
+        "choices": {
+          "A": "Veillonella",
+          "B": "Fusobacterium",
+          "C": "Actinomyces",
+          "D": "Campylobacter"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "32. If a patient is taking antimicrobials, which of the following can neutralize the antimicrobials?",
+        "choices": {
+          "A": "Tryptic soy broth",
+          "B": "Antihistamine",
+          "C": "Thiol broth",
+          "D": "Brain-heart infusion broth"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "33. From a bronchial washing, organisms are seen on a Gram stain, but no growth occurs aerobically and anaerobically. This is most likely due to",
+        "choices": {
+          "A": "Anaerobes",
+          "B": "Inhibition by antibiotic therapy",
+          "C": "Uncultivable bacteria e.g., rickettsiae, mycoplasma, M. leprae",
+          "D": "The specimen being incubated instead of refrigerated"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "34. Which of the following should be used to remove antimicrobials before culturing?",
+        "choices": {
+          "A": "Antimicrobial Removal Device",
+          "B": "Isolator",
+          "C": "Septi-Chek",
+          "D": "None of the above."
+        },
+        "answer": "A"
+      },
+      {
+        "question": "35. Sodium polyanethol sulfonate may be used as an anticoagulant in blood cultures because it",
+        "choices": {
+          "A": "Removes some antimicrobials",
+          "B": "Prevents phagocytosis",
+          "C": "Neutralizes the bactericidal effect of human serum",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "36. What is the most abundant normal flora in throat cultures?",
+        "choices": {
+          "A": "Micrococcus",
+          "B": "Alpha-hemolytic Streptococcus",
+          "C": "Escherichia coli",
+          "D": "Legionella pneumophila"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "37. What is the most common pathogen in throat cultures?",
+        "choices": {
+          "A": "Group A Streptococcus",
+          "B": "Alpha-hemolytic Streptococcus",
+          "C": "Corynebacterium diphtheriae",
+          "D": "Staphylococcus epidermidis"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "38. Why must blood agar plates for throat cultures be incubated aerobically and anaerobically when beta-hemolytic streptococci are suspected?",
+        "choices": {
+          "A": "Some may producebeta-hemolysis under aerobic conditions",
+          "B": "Streptococci only grow under aerobic conditions '",
+          "C": "Streptococci only grow under anaerobic conditions",
+          "D": "Neither A nor B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "39. Nasopharyngeal swabs are recommended for the detection of carriers such as",
+        "choices": {
+          "A": "Haemophilus influenzae, Neisseria, Bordetella pertussis",
+          "B": "Neisseria, Vibrio, Bordetella pertussis",
+          "C": "Haemophilus influenzae, Erysipelothrix, Vibrio",
+          "D": "Erysipelothrix, Neisseria, Listeria"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "40. Todd-Hewitt broth is recommended for",
+        "choices": {
+          "A": "Determination of mycobacterial growth rate",
+          "B": "Primary culture for anaerobes",
+          "C": "Stool enrichment for Salmonella but not for Shigella",
+          "D": "Culture of beta-hemolytic streptococci for fluorescence microscopy"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "41. Phenylethyl alcohol is used in media to",
+        "choices": {
+          "A": "Inhibit gram-positive bacteria",
+          "B": "Inhibit gram-negative bacteria",
+          "C": "Stimulate gram-positive bacteria",
+          "D": "Stimulate gram-negative bacteria"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "42. Why is a first morning urine specimen preferred for urine cultures?",
+        "choices": {
+          "A": "Specimen is diluted",
+          "B": "Bacteria are all motile",
+          "C": "Specimen is more concentrated",
+          "D": "A and B"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "43. What indicates vaginal or urethral contamination of urine?",
+        "choices": {
+          "A": "Many squamous epithelial cells",
+          "B": "Few white blood cells",
+          "C": "1-2 RBCs/hpf",
+          "D": "Amorphous urates"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "44. In the pour-plate method for colony counts, how does the amount of agar added affect the dilution",
+        "choices": {
+          "A": "Dilution is increased",
+          "B": "Dilution is decreased",
+          "C": "Dilution is increased 20% '",
+          "D": "Dilution is not affected"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "45. Smears of cerebrospinal fluid are prepared from",
+        "choices": {
+          "A": "Cerebrospinal fluid sediment",
+          "B": "Uncentrifuged cerebrospinal fluid",
+          "C": "Heated cerebrospinal fluid",
+          "D": "Frozen cerebrospinal fluid"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "46. Smears of cerebrospinal fluid are usually stained with",
+        "choices": {
+          "A": "Acid-fast stain '",
+          "B": "Gram stain",
+          "C": "Indiz ink stain",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "47. Which of the following tests for bacterial antigen on cultures isolated from cerebrospinal fluid is more sensitive and faster?",
+        "choices": {
+          "A": "Coagglutination tests",
+          "B": "Latex agglutination tests",
+          "C": "Counterimmunoelectrophoresis test",
+          "D": "Coagulase test"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "48. Staphylococcal protein A coated with antiserum is used in which of the following serological tests on cerebrospinal fluid? in 8;.",
+        "choices": {
+          "A": "Coagglutination test",
+          "B": "Latex agglutination test",
+          "C": "Counterimmunoelectrophoresis",
+          "D": "EL'SA"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "49. Which of the following is not the cause of a venereal disease?, '",
+        "choices": {
+          "A": "Neisseria gonorrhoeae",
+          "B": "Treponema pallidum",
+          "C": "Staphylococcus aureus.",
+          "D": "Trichomonas vaginalis / eo"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "50. Using sheep blood for blood agar plates eliminates beta-hemolytic",
+        "choices": {
+          "A": "Staphylococcus",
+          "B": "Neisseria",
+          "C": "Streptococcus",
+          "D": "Haemophilus"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "51. A positive tube coagulase test is observed for",
+        "choices": {
+          "A": "Bubbling",
+          "B": "Agglutination",
+          "C": "Liquefaction",
+          "D": "Clotting of plasma"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "52. What type of plasma is used for the tube coagulase test? _.",
+        "choices": {
+          "A": "Rabbit",
+          "B": "Human",
+          "C": "Sheep",
+          "D": "Horse"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "53. Some citrate-positive organisms cause a false-positive tube coagulase test because the organism uses the citrate",
+        "choices": {
+          "A": "And releases calcium",
+          "B": "As a source of calciu™)",
+          "C": "As a beta-lactamase",
+          "D": "And releases oxygen"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "54. Anonhemolytic, catalase-positive, coagulase-negative, gram-positive coccus is most likely to be: cae",
+        "choices": {
+          "A": "Staphylococcus aureus",
+          "B": "Staphylococcus epidermidis",
+          "C": "Alpha-hemolytic streptococci rot",
+          "D": "Streptococcus faecalis"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "55. The preferred method of differentiating S. aureus from S. epidermidis is",
+        "choices": {
+          "A": "Catalase test",
+          "B": "Coagulase test",
+          "C": "DNase/mannitol fermentation",
+          "D": "Phage typing"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "56. Which of the following staphylococci is the cause of urinary tract infection in young females?",
+        "choices": {
+          "A": "S. epidermidis",
+          "B": "S. saprophyticus",
+          "C": "S. aureus",
+          "D": "S. hominis"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "57. Staphylococcus aureus can be isolated from stool cultures by the use of",
+        "choices": {
+          "A": "Potassium tellurite medium",
+          "B": "MacConkey agar",
+          "C": "Medium with 7.5% salt concentration",
+          "D": "lowenstein-Jensen medium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "58. The most common cause of bacterial food poisoning ir the United States is",
+        "choices": {
+          "A": "Clostridium botulinum",
+          "B": "Staphylococcus aureus",
+          "C": "Shigella dysenteriae type 1",
+          "D": "Clostridium perfringens"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "59. Which of the following gram-positive cocci ferment glucose? a",
+        "choices": {
+          "A": "Staphylococci",
+          "B": "Micrococci",
+          "C": "A and B",
+          "D": "Neither A nor B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "60. Which hemolysin, produced by beta-hemolytic streptococci, is oxygen stable and nonantigenic?",
+        "choices": {
+          "A": "Streptolysin A",
+          "B": "Streptolysin S",
+          "C": "Streptolysin G",
+          "D": "Streptolysin O"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "61. Cultures for beta-hemolytic streptococci must include: ' -",
+        "choices": {
+          "A": "Incubation at 25 C to ensure growth of all strains",
+          "B": "Anaerobic incubation to detect hemolysis in all strains",
+          "C": "Incubation with carbon dioxide",
+          "D": "Media with glucose to show typical hemolysis"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "62. Which of the following is destroyed by oxygen?",
+        "choices": {
+          "A": "Botulism toxin",
+          "B": "Streptolysin O",
+          "C": "Catalase",
+          "D": "Coagulase"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "63. Match ihe following organisms with the biochemical test or tests that presumptively identifies tiem. Tests may be used more thar one time. 1 Group A, beta-hemolytic streptococci a. hippurate hydrolysis pasitive 2. Streptococcus pneumoniae b. CAMP test positive 3. Alpha-hemolytic streptococci c. bacitracin susceptible 4. Group B, beta-hemolytic streptococci d. bile-esculin dositive. 5. Enterococcus ° e. Optochin disk susceptible f. optochin disk resistant",
+        "choices": {
+          "A": "hippurate hydrolysis pasitive",
+          "B": "CAMP test positive",
+          "C": "bacitracin susceptible",
+          "D": "bile-esculin dositive",
+          "E": "Optochin disk susceptible",
+          "F": "optochin disk resistant"
+        },
+        "answer": "1: C; 2: E; 3: F; 4: A & B; 5: D"
+      },
+      {
+        "question": "64. 'Whenever a biochemical test is substituted for a serological test it is reported",
+        "choices": {
+          "A": "By the genus and species name",
+          "B": "As \"presumptive\" with the name of the biochemical test",
+          "C": "By its common name",
+          "D": "None of the above"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "65. CAMP is a factor produced by group B beta-hemolytic streptococci that:",
+        "choices": {
+          "A": "Reduces the zone of lysis formed by the streptococci",
+          "B": "Hydrolyzes the B factor",
+          "C": "Causes a change in color",
+          "D": "Enlarges the zone of lysis formed by staphylococcal beta-hemolysin"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "66. A positive Quellung test is: '",
+        "choices": {
+          "A": "Oxidation but not fermentation 2",
+          "B": "Virtual proof that the organism is a pathogen",
+          "C": "Visible only by fluorescent light.",
+          "D": "From capsular swelling due to an antigen-antibody reaction"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "67. Which of the following serological tests is used for a confirmatory test of streptococci?",
+        "choices": {
+          "A": "Phadebact test",
+          "B": "Fluorescent antibody test",
+          "C": "Lancefield precipitin test",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "68. When performing a bacitracin differentiation test for group A beta-hemolytic streptococci, use disks that have how many units?",
+        "choices": {
+          "A": "10.00 units -",
+          "B": "5.00 units",
+          "C": "0.02-0.04 units",
+          "D": "1.00-2.00 units"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "69. Match the disease in the first column with the organism in the second column. Letters in the second. column may be used more than once: 1. scarlet fever a. group B streptococci 2. major pathogen of the newborn b. group A streptococci 3. \"strep throat* c. alpha-hemolytic streptococci 4. subacute bacteria endocarditis",
+        "choices": {
+          "A": "group B streptococci",
+          "B": "group A streptococci",
+          "C": "alpha-hemolytic streptococci"
+        },
+        "answer": "1: B; 2: A; 3: B; 4: C"
+      },
+      {
+        "question": "70. What do optochin and bacitracin tests have in common? 3 & =",
+        "choices": {
+          "A": "Autolysis is a negative result",
+          "B": "Growth inhibition is a positive result",
+          "C": "They should not be done on blood agar",
+          "D": "Either one will differentiate enterococci from viridans streptococci"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "71. The bile-esculin test Is used to differentiate",
+        "choices": {
+          "A": "Enterococci from other group D streptococci",
+          "B": "Streptococcus faecalis from Listeria",
+          "C": "Group D streptococci from other strep",
+          "D": "Group A from group B streptococci"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "72. Hippurate hydrolysis is used to differentiate",
+        "choices": {
+          "A": "Group A from group B streptococci",
+          "B": "Group B streptococci from enterococci",
+          "C": "Listeria from streptococci",
+          "D": "Pneumococci from other viridans"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "73. A bacitracin-resistant, hippurate-hydrolysis positive, bile-esculin positive, beta-hemolytic Streptococcus that. grows in 6.5% NaCl is probably a/an",
+        "choices": {
+          "A": "Pneumococcus",
+          "B": "Enterococcus",
+          "C": "Group D strep",
+          "D": "Diphtheroid"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "74. Pneumococci that are resistant to penicillin should be tested for:: a",
+        "choices": {
+          "A": "Production of beta-lactamase",
+          "B": "Bile solubility",
+          "C": "Growth in NaC}",
+          "D": "Resistance to bacitracin"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "75. Gram-negative, coffee bean-shaped diplococci with adjacent sides flattened is descriptive of which of the following?",
+        "choices": {
+          "A": "Neisseria",
+          "B": "Staphylococcus",
+          "C": "Listeria",
+          "D": "Chlamydia."
+        },
+        "answer": "A"
+      },
+      {
+        "question": "76. The diagnosis of gonorrhoeae in males can be made from",
+        "choices": {
+          "A": "Positive urethral smear",
+          "B": "Symptoms",
+          "C": "History",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "77. Which of the following specimens may be appropriate for culturing Neisseria gonorrhoeae?",
+        "choices": {
+          "A": "Eyes",
+          "B": "Rectum",
+          "C": "Oral cavity",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "78. What is the medium of choice for culturing gonococci and meningococci?",
+        "choices": {
+          "A": "Lowenstein-Jensen",
+          "B": "Modified Thayer-Martin",
+          "C": "Sheep blood agar",
+          "D": "Potassium tellurite"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "79. Which of the following differentiates Thayer-Martin medium from modified Thayer-Martin medium?",
+        "choices": {
+          "A": "Nystatin",
+          "B": "Vancomycin",
+          "C": "Colistin",
+          "D": "Trimethoprim lactate"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "80. Thayer-Martin medium is basically a/an",
+        "choices": {
+          "A": "Blood agar",
+          "B": "Enriched MacConkey agar re",
+          "C": "Enriched chocolate agar",
+          "D": "Potassium tellunte agar"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "81. What color is a positive oxidase test?",
+        "choices": {
+          "A": "Blue",
+          "B": "Green",
+          "C": "Yellow",
+          "D": "Dark purple"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "82. Which of the following genera are oxidase-positive? -",
+        "choices": {
+          "A": "Moraxella",
+          "B": "Aeromonas",
+          "C": "Neisseria",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "83. When performing the oxidase test, which of the following techniques can be used?",
+        "choices": {
+          "A": "Put a drop of reagent on the colony",
+          "B": "Rub colony on a filter paper strip and add a drop of reagent -",
+          "C": "Rub the colony on a piece of filter paper containing the reagent",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "84. What do \"PPNG\" gonococci produce?",
+        "choices": {
+          "A": "Penicillin-producing go: 2cocci",
+          "B": "Penicillinase-producing gonococci",
+          "C": "A and B",
+          "D": "Neither A nor B"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "85. Which of the following are methods for testing for the production of beta-lactamase?",
+        "choices": {
+          "A": "Chromogenic cephalosporin method",
+          "B": "Acidometric method *",
+          "C": "lodometric method",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "86. Which of the following indicates 2 positive reaction for the beta-lactamase chromogenic cephalosporin method?",
+        "choices": {
+          "A": "Production of acid",
+          "B": "Color change",
+          "C": "Reduction of nitrates",
+          "D": "Decolorization of starch-iodine mixture"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "87. An oxidase-positive, gram-negative coccus from a throat culture might be:",
+        "choices": {
+          "A": "Staphylococcus",
+          "B": "An \"EEC\"",
+          "C": "Fusobacterium",
+          "D": "Neisseria"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "89. Neisseria meningitidis degrades which of the following sugars?",
+        "choices": {
+          "A": "Glucose",
+          "B": "maltose '",
+          "C": "Lactose",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "90. Which of the following tests can give a presumptive identification of Branhamella catarrhalis if the isolate is a gram-negative diplococcus that is oxidase-positive and isolated from middle-ear fluid?",
+        "choices": {
+          "A": "Nitrate test",
+          "B": "Urease test",
+          "C": "Indole test",
+          "D": "Beta-lactamase test"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "91. Why should beta-lactamase tests be performed with growth from primary isolation media?",
+        "choices": {
+          "A": "Plasmid coding for the enzyme may be lost on subculturing '",
+          "B": "May react with chemicals in the medium i",
+          "C": "Because of the absorbance of oxygen from the medium",
+          "D": "None of the above."
+        },
+        "answer": "A"
+      },
+      {
+        "question": "92. What is the purpose of potassium tellurite in tellurite medium?",
+        "choices": {
+          "A": "Inhibits the normal flora.",
+          "B": "Enriches the medium",
+          "C": "Enriches pleomorphism",
+          "D": "Enhances granule production"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "93. Potassium tellurite medium produces what color colonies of Corynebacterium diphtheriae?",
+        "choices": {
+          "A": "Green",
+          "B": "Blue",
+          "C": "Red",
+          "D": "Gray-black"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "94. When culturing Corynebacterium diphtheriae, which of the foliowing media will enhance pleomorphism and granule production?",
+        "choices": {
+          "A": "Loeffler serum aga.",
+          "B": "Pai coagulated egg medium",
+          "C": "A and B",
+          "D": "neither A nor B"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "95. What is the morphology of Corynebacterium diphtheriae?",
+        "choices": {
+          "A": "Gram-negative, motile cocci",
+          "B": "Gram-positive, motile cocci",
+          "C": "Gram-positive, nonmotile rods",
+          "D": "Gram-negative, nonmotile rods"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "96. The term \"palisading\" \"picket fence\" and \"Chines letter' describe the common arrangement of cells of",
+        "choices": {
+          "A": "Corynebacterium",
+          "B": "Mycobacterium tuberculosis but not other mycobacteria",
+          "C": "Actinomyces but not Nocardia i",
+          "D": "Corynebacterium diphtherlae but not other corynebacteria"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "97. Babes-Ernst granules are characteristic of",
+        "choices": {
+          "A": "Bacillus anthracis",
+          "B": "Listeria monocytogenes",
+          "C": "Mycobacterium tuberculosis",
+          "D": "Corynebacterium diphtheriae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "98. Which of the following are considered diphtheroids?",
+        "choices": {
+          "A": "Corynebacterium xerosis",
+          "B": "Corynebacterium diphtheriae.",
+          "C": "Corynebacterium JK",
+          "D": "A and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "99. Which of the following diphtheroids is found in the normal throat?",
+        "choices": {
+          "A": "Propionibacterium acnes",
+          "B": "Corynebacterium pseudodiphtheriticum",
+          "C": "Corynebacterium xerosis",
+          "D": "Rhodococcus equi"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "100. The Elek test is for the detection of",
+        "choices": {
+          "A": "Corynebacterium diphtheriae toxin, in vivo",
+          "B": "Corynebacterium diphtheriae toxin, in vitro",
+          "C": "Bacillus anthracis toxin, in vitro",
+          "D": "Clostridium botulinum toxin, in vitro"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "101. The morphological cycle of Rhodococcus equi from coccoid to rod form takes",
+        "choices": {
+          "A": "5 hours",
+          "B": "12 hours",
+          "C": "24 hours",
+          "D": "48 hours"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "102. Which of the following is a gram-positive to gram-variable coccobacillus?",
+        "choices": {
+          "A": "Staphylococcus epidermidis",
+          "B": "Corynebacterium diphtheriae",
+          "C": "Listeria monocytogenes",
+          "D": "Haemophilus influenzae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "103. Listeria monocytogenes produces a positive in which of the following biochemical tests?",
+        "choices": {
+          "A": "Coagulase test.",
+          "B": "Lactose fermentation test",
+          "C": "Catalase",
+          "D": "A and C"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "104. Which of the following is a virulence test for Listeria monocytogenes?",
+        "choices": {
+          "A": "Elek test",
+          "B": "Anton test",
+          "C": "ELISA test",
+          "D": "Feeley-Gorman"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "105. Refrigeration of the specimen for several months may enhance isolation of:.",
+        "choices": {
+          "A": "Psychrophilic blood bank contaminants",
+          "B": "Listeria monocytogenes",
+          "C": "Neisseria meningitidis '",
+          "D": "Actinomyces"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "106. Which of the following will differentiate Listeria monocytogenes from the corynebacteria?.",
+        "choices": {
+          "A": "Nonmotile and salicin negative",
+          "B": "Motile and salicin positive",
+          "C": "Nitrate-positive and sucrose-negative",
+          "D": "Motile and urease negative"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "107. Spore-forming cells in bamboo pole arrangement of Bacillus anthracis can be found in",
+        "choices": {
+          "A": "Specimen from patient",
+          "B": "Guinea pigs",
+          "C": "Cultures",
+          "D": "None of the above"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "108. Which aerobic, gram-positive, sporulating rods can cause food poisoning?",
+        "choices": {
+          "A": "Bacillus subtilis",
+          "B": "Bacillus cereus",
+          "C": "Mycobacterium phlei",
+          "D": "Clostridium ramosum"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "109. Very large gram-negative rods with spores are seen in a nonturbid thioglycollate broth culture of spinal fluid, but there is no growth anaerobically or aerobically. This is most likely due to",
+        "choices": {
+          "A": "Too small an amount of inoculum that caused the organisms to die!",
+          "B": "Exchange of genetic material between Bacillus sp. and Escherichia coli",
+          "C": "Bacillus sp. in the dehydrated medium are killed and made gram-negative by autoclaving the medium",
+          "D": "Avery high spinal fluid glucose allows the Escherichia coli to multiply in broth but not on solid medium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "110. | Match the following dyes or reagents used in the ZiehI-Neelsen acid-fast staining procedure in the second column with their purpose in the first column: 1 mordant a. acid (3% HCl) alcohol -., 2. primary dye.: < b. dilute methylene blue 3. counterstain c. carbolfuchsin 4. decolorizer ' d. heat to speed staining",
+        "choices": {
+          "A": "acid (3% HCl) alcohol",
+          "B": "dilute methylene blue",
+          "C": "carbolfuchsin",
+          "D": "heat to speed staining"
+        },
+        "answer": "1: D; 2: C; 3: B; 4: A"
+      },
+      {
+        "question": "111. Nonacid-fast bacilli stain what color?",
+        "choices": {
+          "A": "Green",
+          "B": "Blue",
+          "C": "Red",
+          "D": "Orange"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "112. Acid-fast bacilli retain which dye?",
+        "choices": {
+          "A": "Methylene blue",
+          "B": "Malachite green",
+          "C": "Gentian violet",
+          "D": "Carbolfuchsin"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "113. An acid-fast stain that does not use heat as the mordant is which of the following?",
+        "choices": {
+          "A": "Truant fluorochrome stain",
+          "B": "Ponder stain",
+          "C": "Kinyoun stain",
+          "D": "Gomori stain"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "114. Which of the following media is clear so that the colonies of mycobacteria can be examined microscopically?",
+        "choices": {
+          "A": "Mueller-hinton",
+          "B": "Lowenstein-Jensen",
+          "C": "Blood agar",
+          "D": "Middlebrook 7H 11"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "115. What color is a negative enzymatic hydrolysis of Tween 80 test?",
+        "choices": {
+          "A": "Red",
+          "B": "Amber",
+          "C": "Green",
+          "D": "Blue"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "116. Mycobacterial cultures should be incubated: =",
+        "choices": {
+          "A": "In 5% carbon dioxide",
+          "B": "In increased humidity",
+          "C": "At25C",
+          "D": "Under anaerobic conditions"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "117. A slow-growing, unbranched, acid-fast rod that is nitrate reduction-negative and niacin-negative is most likely to be:: '",
+        "choices": {
+          "A": "Mycobacterium tuberculosis",
+          "B": "Mycobacterium bovis",
+          "C": "Actinomyces israelii",
+          "D": "Mycobacterium kansasii"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "118. Mycobacterium tuberculosis is best differentiated from Mycobacterium bovis by",
+        "choices": {
+          "A": "Growth rate",
+          "B": "Niacin or nitrate reduction tests",
+          "C": "Hydrolysis of Tween 80",
+          "D": "Catalase test at 68C"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "119. Which of the following are slow growers? oe",
+        "choices": {
+          "A": "Mycobacterium kansasii",
+          "B": "Mycobacterium avium-intracellulare complex",
+          "C": "Mycobacterium tuberculosis 5-0) '",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "120. Which differential test for identifying the sspecies of \\Mycobacterium splits phenolphthalein from tripotassium phenolphthalein-sulfate within 2-3 days?",
+        "choices": {
+          "A": "Catalase test",
+          "B": "Tween 80 hydrolysis",
+          "C": "Arylsulfatase test",
+          "D": "Nitrate reduction test"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "121. Which of the following is used for the identification of mycobacteria?",
+        "choices": {
+          "A": "Biochemical reactions",
+          "B": "Pigment production",
+          "C": "Growth rate",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "122. One tube of Lowenstein-Jensen medium is incubated covered with foil and one tube is incubated uncovered. When is the covered tube observed?",
+        "choices": {
+          "A": "When growth appears on the uncovered tube",
+          "B": "After 1 week of incubation",
+          "C": "After 2 weeks of incubation --",
+          "D": "At any time"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "123. Which of the following belong to Group IV (rapid growers)?",
+        "choices": {
+          "A": "Mycobacterium gordonae -",
+          "B": "Mycobacterium smegmatis",
+          "C": "Mycobacterium phlei",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "124. What are \"lepra\" cells?",
+        "choices": {
+          "A": "Neutrophils containing gram-negative cocci",
+          "B": "Basophils containing gram-positive diplocecci",
+          "C": "Macrophages containing acid-fast bacilli",
+          "D": "Red blood cells containing acid-fast bacilli"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "125. Acid-fast rods in a specimen from nasal mucosa: '",
+        "choices": {
+          "A": "Are diagnostic for leprosy",
+          "B": "Must be cultused on Hansen's agar for definitive identification '",
+          "C": "Are called \"lepra cells\"",
+          "D": "Are not a diagnostic point"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "126. The Fite-Faraco acid-fast stain is different from other acid-fast stains because it uses",
+        "choices": {
+          "A": "Hematoxylin rather than methylene blue as a counterstain",
+          "B": "Carbol gentian violet rather than safranin as a counterstain",
+          "C": "Malachite green rather than hematoxylin as a counterstain",
+          "D": "India ink with no counterstain"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "127. The specimen is usually used for the diagnosis of Hansen's disease?",
+        "choices": {
+          "A": "Tissue juice",
+          "B": "Blood",
+          "C": "Sputum",
+          "D": "Urine"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "128. \"Lumpy jaw\" is caused by",
+        "choices": {
+          "A": "Nocardia brasiliensis",
+          "B": "Trichophyton rubrum",
+          "C": "Actinomyces israelii",
+          "D": "Microsporum canis i"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "129. Wrich of the following is anaerobic?",
+        "choices": {
+          "A": "Actinomyces",
+          "B": "Nocardia",
+          "C": "Mycobacterium",
+          "D": "Sordetella"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "130. Which of the following is urease-pcsitive?",
+        "choices": {
+          "A": "Salmonella",
+          "B": "Shigella",
+          "C": "Nocardia",
+          "D": "Chlamydia"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "131. Nocardia will yrow on any media that dues not contain",
+        "choices": {
+          "A": "Antibiotics",
+          "B": "Blood serum",
+          "C": "Peptone",
+          "D": "Agar"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "132. Match the organism In column 1 with the disease in column Z, 1. H. influenzae a. normal flora in respiratory tract 2. H. ducreyi b. pinkeye 3. H. aegyptius v. ulcerative chancroid 4. H. haemolyticus d. meningitis",
+        "choices": {
+          "A": "normal flora in respiratory tract",
+          "B": "pinkeye",
+          "C": "ulcerative chancroid",
+          "D": "meningitis"
+        },
+        "answer": "1: D; 2: C; 3: B; 4: A"
+      },
+      {
+        "question": "133. Which medium is preferred for the culture of most Haemophilus? '",
+        "choices": {
+          "A": "Nutrient agar",
+          "B": "Tryptic soy agar",
+          "C": "Enriched chocolate agar",
+          "D": "Bordet-Gengou plates"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "134. A fastidious, small to filamentous, gram-negative rod from a nasopharyngeal swab is most likely to be",
+        "choices": {
+          "A": "Actinomyces israelil",
+          "B": "Neisseria meningitidis",
+          "C": "Branhamella catarrhalis",
+          "D": "Haemophilus. influenzae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "135. Cultures of Staphylococcus supplies which of the following for cultures of Haemophilus?",
+        "choices": {
+          "A": "Factor",
+          "B": "Factor lil",
+          "C": "X factor",
+          "D": "V factor '"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "136. What type of blood is used in blood agar plates for better production of beta-hemolysis of Haemophilus?",
+        "choices": {
+          "A": "Horse",
+          "B": "Sheep",
+          "C": "Human",
+          "D": "Rabbit."
+        },
+        "answer": "A"
+      },
+      {
+        "question": "137. Which of the following organisms cause whooping cough?",
+        "choices": {
+          "A": "Haemophilus haemolyticus",
+          "B": "Legionella pneumophila",
+          "C": "Bordetella pertussis",
+          "D": "Streptococcus pneumoniae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "138. Which of the following sspecies of Bordetella are urease and oxidase-positive?",
+        "choices": {
+          "A": "parapertussis",
+          "B": "bronchiseptica",
+          "C": "pertussis",
+          "D": "None of the above!"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "139. The preferred medium for the isolation of Bordetella pertussis is",
+        "choices": {
+          "A": "Bordet-Gengou medium",
+          "B": "Chocolate agar",
+          "C": "Charcoal-cephalexin agar",
+          "D": "Clotted rabbit blood"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "140. Brucella isolate that does not produce H2S, does not require CO2, and is not inhibited by thionin or basic fuchsin is probably which species of Brucella?",
+        "choices": {
+          "A": "Brucella canis",
+          "B": "Brucella abortus, biotype 1",
+          "C": "Brucella suis, biotype 1",
+          "D": "Brucella melitensis, biotype 1"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "141. A gram-negative, fastidious bacillus that has been isolated from air-conditioning towers is",
+        "choices": {
+          "A": "Proteus vulgaris",
+          "B": "Brucella abortus",
+          "C": "Edwardsiella tarda gl 2",
+          "D": "Legionella ¢.neumophila"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "142. A gram-negative, fastidious bacillus that is difficult to stain by the Gram stain is",
+        "choices": {
+          "A": "Proteus vulgaris",
+          "B": "Brucella abortus",
+          "C": "Edwardsiella tarda size",
+          "D": "Legionella pneumophila"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "143. A relatively slow growing and fastidious, gram-negative rod that produces a characteristic brown pigment on Feeley-Gorman agar is",
+        "choices": {
+          "A": "Haemophilus influenzae",
+          "B": "Legionella pneumophila",
+          "C": "Bordetella pertussis!",
+          "D": "Brucella melitensis"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "144. At the present time, which of the following is most sensitive for the diagnosis of infections with Legionella pneumophila?",
+        "choices": {
+          "A": "Demonstration of a significant rise in antibody titer",
+          "B": "Isolation of organism by culture",
+          "C": "Direct visualization of the organism in tissue",
+          "D": "Detection of soluble microbial products in body fluids"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "145. The best medium for the isolation of Legionella is: '",
+        "choices": {
+          "A": "lron-cystine agar",
+          "B": "Campy-thio agar",
+          "C": "V agar",
+          "D": "Buffered charcoal yeast extract agar"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "146. What does the campy gas mixture consist of?",
+        "choices": {
+          "A": "10% COz",
+          "B": "5% O2",
+          "C": "85% nitrogen",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "147. \"Rice water\" stools often contai.1: '",
+        "choices": {
+          "A": "A pure culture of Vibrio cholerae '",
+          "B": "Toxigenic Clostridium botulinum",
+          "C": "Toxigenic Staphylococcus aureus",
+          "D": "Undigested aflatoxin-contaminated rice kerne!s"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "148. A curved, gram-negative rod that is nonfermentive, nitrate-positive and microaerophiilic is",
+        "choices": {
+          "A": "Flavobacterium",
+          "B": "Spirillum minus",
+          "C": "Campylobacter jejuni",
+          "D": "Leptospira"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "149. S. Campylobacter is a/an",
+        "choices": {
+          "A": "Obligate microaerophile",
+          "B": "Obligate aercbe",
+          "C": "Facultative anaerobe",
+          "D": "Obligate anerobe"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "150. A gram-negative, slender, curved rod with a singie polar fiagellum is the cause of gastroenteritis and best isolated on: i",
+        "choices": {
+          "A": "Sheep tlood agar",
+          "B": "Human blood Tween agar",
+          "C": "Campy blood agar",
+          "D": "XLD agar"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "151. \"Clue cells\" may be found in infections with",
+        "choices": {
+          "A": "Campylobacter coli",
+          "B": "Gardnerella vaginalis",
+          "C": "Brucella canis",
+          "D": "Legionella pneumophila"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "152. Mycoplasmas are not irue bacteria because they",
+        "choices": {
+          "A": "Have 4 nuclei",
+          "B": "Grew rapidly",
+          "C": "Are anaerobic",
+          "D": "Have no cell wall"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "153. Which of the following microorganisms form colonies that are embedded in the agar giving a fried egg -_ appearance?",
+        "choices": {
+          "A": "Mycoplasma prieumoniae",
+          "B": "Mycobacterium kansasii",
+          "C": "Clostridium difficile",
+          "D": "Ureaplasma urealyticum"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "154. What is the best method for the identification of Mycoplasma sspecies?",
+        "choices": {
+          "A": "Nitrate reduction test",
+          "B": "Inhibition of growth by specific antisera",
+          "C": "Production of acetoin",
+          "D": "Radial immunodiffusion test"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "155. What is the purpose of enrichment fluid media when culturing Enterobacteriaceae?",
+        "choices": {
+          "A": "Extends lag phase of normal flora",
+          "B": "Decreases lag phase of pathogens",
+          "C": "Extends lag phase of pathogens",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "156. Match aach item in the first column with one or more of the media in the second column. 1, eosin Y and methylene blue a. MacConkey medium; 2: lactose and sucrose b. Holt-Harris EMB medium 3.___ lactose only c. Levine's EMB agar, 4, crystal vioiet 5, bile salts P: 6. neutral red 7. lactose i &. black er purple colonies - ' 9. brick red colonies 7 19. ___ colorless colonies 1",
+        "choices": {
+          "A": "MacConkey medium",
+          "B": "Holt-Harris EMB medium",
+          "C": ". Levine's EMB agar"
+        },
+        "answer": "1: B & C; 2: B; 3: C; 4: A; 5: A; 6: A; 7: A; 8: B & C; 9: A; 10: A B C"
+      },
+      {
+        "question": "157. Nonfermenters produce what reaction in triple sugar iron agar (TSI)?",
+        "choices": {
+          "A": "Alkaline slant, alkaline or neutral butt",
+          "B": "Acid slant, acid butt",
+          "C": "Alkaline siant, a!klaline butt '",
+          "D": "Alkaline slant, acid butt"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "158. What is the hydrogen sulfide indicator in triple sugar iron agar?",
+        "choices": {
+          "A": "Tryptophan",
+          "B": "Sodium thiosulfate",
+          "C": "Ferric ammonium citrate",
+          "D": "Alpha-naphthol"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "159. IMViC is'a serizs of which of the following tests?",
+        "choices": {
+          "A": "Indole, methyl red, V >ges-Proskauer, citrate",
+          "B": "Indole, motility, Voges-Croskauer, carbohydrate",
+          "C": "Inositol, mannitol, Voges-Proskaue,, citrate",
+          "D": "Inositol, methyl red, Voges-Proskauer, curbohydrate"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "160. What is the indicator in the methy! red test?",
+        "choices": {
+          "A": "Bromthymol blue",
+          "B": "Phenol red",
+          "C": "Bromcresol purple",
+          "D": "Methyl red 2 4"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "161. Most Enterobacteriaceae give what type of methyl red and Voges-Proskauer reactions?",
+        "choices": {
+          "A": "Opposite",
+          "B": "Similar",
+          "C": "Identical",
+          "D": "None of the above"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "162. What is the indicator in Simmons citrate agar?",
+        "choices": {
+          "A": "Phenol red",
+          "B": "Bromthymol blue",
+          "C": "Bromcresol purple",
+          "D": "Neutral red"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "163. Match each item in the first column with ono or more of the media in the second column: 1. glucose (dextrose) a. Salmonella-Shigellu (SS) 2, lactose only b. Bismuth-sulfite (BS): 3. lactose, sucrose, Salicin c. Xylose-lysine-deoxycholate 4. ferrous sulfate d. Hektoen Enteric agar 5: phenol red; @. Brilliant Green agar 6. brilliant green only; inhibitor for gram-positive organisms and coliforms if bile salts and brilliant green 8. ferric (ammonium) citrate + sodium thiosulfate ' 9, xylose, lactose, sucrose nt 10. bromthymo! blue and acid tuchsin 11. neutral red; 12. ___sred colonies. 13. colorless colonies 14. red coionies with black centers 15. biack colonies surrounded by black zone with metallic sheen 16. green colonies 17. blue green colonies with black centers 18. orange-salmon pink colonies: 19. citrate to inhibit coliforms and Proteus 20. whitish \"snowflake\" colony surrounded by brilliant red agar",
+        "choices": {
+          "A": "Salmonella-Shigellu (SS)",
+          "B": "Bismuth-sulfite (BS)",
+          "C": "Xylose-lysine-deoxycholate",
+          "D": "Hektoen Enteric agar"
+        },
+        "answer": "1: B; 2: A; 3: D; 4: B; 5: C &?; 6: B &?; 7: A; 8: C &?; 9: C; 10: D; 11: A; 12: A &?; 13: A; 14: C; 15: B; 16: B &?; 17: D; 18: D; 19: A &?; 20: E"
+      },
+      {
+        "question": "164. Wr-sh of t' ¢ following amino acids are used in the test for decarboxylase?",
+        "choices": {
+          "A": "Cadaverine, putrescine, ornithine",
+          "B": "Ornithine, arginine, cadaverine",
+          "C": "Lysine, arginine, ornithine",
+          "D": "Arginine, putrescine, cadaverine"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "165. Testing 3 amino acids would require 4 tubes. Why?",
+        "choices": {
+          "A": "2 tubes are needed fcr testing lysine",
+          "B": "2 tubes are needed for testing arginine",
+          "C": "1 tube is needed for a control",
+          "D": "Only 3 tubes are needed"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "166. Which of the following is an enzyme that removes the amino group (NH2) from an amino acid?",
+        "choices": {
+          "A": "Decarboxylase",
+          "B": "Urease",
+          "C": "Gelatinase",
+          "D": "Deaminase"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "167. Organisms that produce urease do what to the medium? i '",
+        "choices": {
+          "A": "Produce phenylpyruvic acid",
+          "B": "Liquefy the medium",
+          "C": "Hydrolyze urea to NH4OH",
+          "D": "Produce hydrogen suifide"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "168. Hydrogen sulfide production, other than in triple sugar iron agar, requires",
+        "choices": {
+          "A": "An organic source of sulfur",
+          "B": "A source of metal",
+          "C": "A buffer j",
+          "D": "A and B 2"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "169. What color indicates a negative result in the malonate utilization test?",
+        "choices": {
+          "A": "Green",
+          "B": "Yellow",
+          "C": "Blue",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "170. Gelatinase breaks down gelatin to: (",
+        "choices": {
+          "A": "Sodium malonate",
+          "B": "Amino acids",
+          "C": "Hydrogen sulfide",
+          "D": "Acetoin"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "171. What indicates a positive DNase result after 0.1 N HCl is added to the plate?",
+        "choices": {
+          "A": "Gels on refrigeration 4",
+          "B": "Green slant",
+          "C": "Agar becomes cloudy © -",
+          "D": "Agar clears around the colony"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "172. The DNase test is basec on",
+        "choices": {
+          "A": "Color",
+          "B": "Turbidity indicating growth in a medium containing DNA",
+          "C": "Destruction of sugars in the culture medium",
+          "D": "Product detection of DNA degradation by CNase"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "173. If the negative nitrate reduction test does not change color after the powdered zinc is added, how is it reported?",
+        "choices": {
+          "A": "Positive",
+          "B": "Doubtful",
+          "C": "Negative",
+          "D": "Do not report"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "174. Salmonella, Shigella, Escherichia coll, and Serratia are ail",
+        "choices": {
+          "A": "Dextrose - negative",
+          "B": "Lactose — negative",
+          "C": "Common hospital-acquired urinary tract infectious agents '",
+          "D": "Members of Enterobacteriaceae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "175. What is the purpose of the ONPG test? '",
+        "choices": {
+          "A": "Determines the amount of glucose",
+          "B": "Determines the fermentation of sucrose",
+          "C": "Determines the amount of sucrose",
+          "D": "Detects slow lactose fermenters"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "176. An organism isolated from a urine culture has the follc wing reactions' Grain-negative rod TSI A/AG +G; IMVIC ++-; motile; Urease - negative: Which of the following orgunisms is it?",
+        "choices": {
+          "A": "Enterobacter cloacae '",
+          "B": "Serratia marcescens",
+          "C": "Klebsiella pneumoniae",
+          "D": "Escherichia coli"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "177. An organism isolated from.a blood culture has the following reactions: \"if Gram-negative rod 2 TSIA A/A +G; IMVIC --++; motile; lysine decarboxylase — negative; no capsule Which of the following organisms is it?",
+        "choices": {
+          "A": "Enterobacter cloacae",
+          "B": "Escherichia coli",
+          "C": "Klebsiella pneumoniae",
+          "D": "Serratia marcescens"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "178. An organism isolated from a blood culture has the following reactions: Gram-negative rod, urease and phenylalanine deaminase positive TSI K/A +G, - H;S; lysine decarboxylase — negative and ornithine decarboxylasw — positive; motility positive or negative Which of the following organisms is it?.",
+        "choices": {
+          "A": "Proteus mirabilis.",
+          "B": "Providencia alcalifaciens",
+          "C": "Morganella morganii",
+          "D": "Proteus vulgaris"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "179. An organism isolated from a stool culture has the following reactions: Gram-negative rod; urease and phenylalanine deaminase negative; TSI K/A, H2S negative; lysine decarboxylase negative; nonmotile. Which of the following organisms is it?",
+        "choices": {
+          "A": "Salmonella subgroup 3 (Arizona)",
+          "B": "Proteus mirabilis",
+          "C": "Shigella spp.",
+          "D": "Citrobacter freundii"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "180. Which of the following allows viability of acid production by oxidizers in oxidation-fermentation (O-F) medium?",
+        "choices": {
+          "A": "Carbohydrate content is high",
+          "B": "Peptone content is low",
+          "C": "Sodium chloride content is low",
+          "D": "Peptone content is high"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "181. An organism isolated from a stool culture has the following reactions: Gram-negative rod; urease and phenylalanine deaminase negative TSIA K/A +G, +H2S; motile; lysine decarboxylase-positive; Indole ~ positive \"ae;: Which of the following is oxidase — positive?",
+        "choices": {
+          "A": "Yersinia enterocolitica",
+          "B": "Aeromonas hydrophila",
+          "C": "Vibrio cholerae",
+          "D": "B and C"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "182. Which of the following is oxidase — positive?",
+        "choices": {
+          "A": "Yersinia enterocolitica",
+          "B": "Aeromonas hydrophila",
+          "C": "Vibrio cholerae",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "183. Which of the following is the reagent used for the string test?; -",
+        "choices": {
+          "A": "Methyl red",
+          "B": "Bromthymol blue",
+          "C": "Carbonate",
+          "D": "0.5% sodium deoxycholate"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "184. Any organism that is indole-positive and nitrate reduction-positive is also: '",
+        "choices": {
+          "A": "ONPG positive",
+          "B": "Cholera red — positive",
+          "C": "Ornithine decarboxylase — negative",
+          "D": "Phenylalanine deaminase — positive"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "185. How many tubes of oxidation-fermentation media is/are inoculated and what precautions should be taken?",
+        "choices": {
+          "A": "1 tube, under aerobic conditions",
+          "B": "2 tubes, one covered with oil so air is excluded",
+          "C": "3 tubes, under anaerobic conditions",
+          "D": "2 tubes, under aerobic conditions"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "186. Which of the following is oxidase-positive?",
+        "choices": {
+          "A": "Moraxella osloensis °",
+          "B": "Xanthomonas maltophiiia",
+          "C": "Acinetobacter calcoaceticus biotype anitratus",
+          "D": "Acinetodacter calcoaceticus biotype Iwoffi"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "187. Which of the following is part of the normal flora of the skin?",
+        "choices": {
+          "A": "Alcaligenes faecalis",
+          "B": "Xanthomonas maltophilia",
+          "C": "Acinetobacter calcoaceticus biotype lwoffii",
+          "D": "Moraxella osloensis"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "188. What does PRAS mean?",
+        "choices": {
+          "A": "Prereduced, aerobically sterilized",
+          "B": "Prereduced, anaerobically sterilized",
+          "C": "Phosphate, rifampin, aerobically sterilized",
+          "D": "Penicillin, rifampin, anaerobically sterilized"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "189. Why should thioglycollate broth be boiled for 10 minutes before being used?",
+        "choices": {
+          "A": "To drive off axygen",
+          "B": "To drive off hydrogen",
+          "C": "To activate the thioglycollate",
+          "D": "To deactivate the thioglycollate"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "190. Nagler agar is a selective medium for:.",
+        "choices": {
+          "A": "Bacteroides",
+          "B": "Propionibacterium —",
+          "C": "Clostridium",
+          "D": "Arachnia"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "191. Peptoceccus and Peptostreptocuccus are both",
+        "choices": {
+          "A": "Aneerobic, gram-positive cocci",
+          "B": "Microaerophilic -",
+          "C": "Common agents of meningitis",
+          "D": "Resistant to penicillin"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "192. Propionibacteria are:; '",
+        "choices": {
+          "A": "Anaerobic, gram-positive rods",
+          "B": "Anaerobic, gram-negative rods",
+          "C": "Aercbic, gram-negative rods.",
+          "D": "Aerobic, gram-positive rods"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "193. A gram-negative, anaerobic coccus that produces a red fluorescence under uitraviolat light is:.",
+        "choices": {
+          "A": "Peptococcus",
+          "B": "Veillonella",
+          "C": "Neisseria",
+          "D": "Fusobacteriun)"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "194. Which anaerobic, gram-positive rods produce terminal \"lollipo»\" spores?",
+        "choices": {
+          "A": "Ciostridium testani",
+          "B": "Eubacterium lentum.",
+          "C": "Clostridium butyricum",
+          "D": "Bacteroides ureolyticus"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "195. Which of the following anaerobes causes an antimicrobial-associated diarrhea?",
+        "choices": {
+          "A": "Clostidium ramosum",
+          "B": "Clostridium difficile",
+          "C": "Clostridium butyricum",
+          "D": "Clostridium aiactolvticum"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "196. Which of the following clostridia produce a double zone of hemolysis around colonies on blood agar?",
+        "choices": {
+          "A": "Clostridium perfringens",
+          "B": "Clostridium testani",
+          "C": "Clostridium sphenoides",
+          "D": "Clostridium difficele"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "197. Mycoplasma pneumoniae Is incubated: '",
+        "choices": {
+          "A": "Aerobically, in a sealed container, irs carbon dioxide",
+          "B": "Anaerobically ina GASPAK",
+          "C": "Aerobically Ls",
+          "D": "None of the above"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "198. A positive urease test for ureaplasmas is indicated by a",
+        "choices": {
+          "A": "Clear zone surrounding the colonies",
+          "B": "Green zone surrounding the colonies",
+          "C": "Brown halo surrounding the colonies",
+          "D": "Red halo surrounding the colonies"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "199. Which of the following organisms produces no haze in a broth culture? -",
+        "choices": {
+          "A": "Mycoplasma hominis",
+          "B": "Mycoplasma pneumoniae",
+          "C": "Ureaplasma urealyticum",
+          "D": "Chlamydia pssitaci"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "200. What is the cause of primary atypical pneumonia?",
+        "choices": {
+          "A": "Klebsiella pneumoniae",
+          "B": "Streptococcus pneumoniae",
+          "C": "Staphylococcus aureus",
+          "D": "Mycoplasma pneumoniae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "201. Which of the following has both ribonucleic acid (RNA) and deoxyribonucleic acid (DNA)?",
+        "choices": {
+          "A": "Rickettsia",
+          "B": "Chlamydia",
+          "C": "Viruses",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "202. Rickettsias are transmitted by",
+        "choices": {
+          "A": "Mosquitoes",
+          "B": "Aerosol",
+          "C": "Contamination",
+          "D": "Arthropod vectors"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "203. Which of the following is not caused by Rickettsia?",
+        "choices": {
+          "A": "Typhus",
+          "B": "Q fever",
+          "C": "Typhoid fever",
+          "D": "Rocky Mountain Spotted Fever"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "204. Which of the following have a bacterial type cell wail?",
+        "choices": {
+          "A": "Viruses and chlamydias.",
+          "B": "Myccplasmas and chlamydias",
+          "C": "Rickettsias and chlamydias",
+          "D": "Rickettsias and viruses"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "205. Which of the following is a small nonmotile, coccobacillus that is cultused in yolk sac of a chick embryo?",
+        "choices": {
+          "A": "Chlamydia",
+          "B": "Mycoplasma",
+          "C": "Rickettsia",
+          "D": "Bifidobacterium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "206. Chlamydia are cultused in",
+        "choices": {
+          "A": "Yolk sac of chick embryo",
+          "B": "McCoy cells",
+          "C": "Blood agar",
+          "D": "None of the above"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "207. Genital cultures for sexually transmitted diseases include all of the following, except",
+        "choices": {
+          "A": "Chlamydia trachomatis",
+          "B": "Herpes simplex virus",
+          "C": "T. pallidum",
+          "D": "Campylobacter coli."
+        },
+        "answer": "D"
+      },
+      {
+        "question": "208. \"TRIC\" conjunctivitis includes which of the following?.",
+        "choices": {
+          "A": "Inclusion conjunctivitis",
+          "B": "Trachoma",
+          "C": "Trench fever",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "209. Which serological test is done for Chlamydia trachomatis on genital smears'?",
+        "choices": {
+          "A": "Enzyme-linked immunosorbent assay (ELISA)",
+          "B": "Radioimmunoassay (RIA)",
+          "C": "Direct FA using monoclonal Abs",
+          "D": "Indirect FA using Chlamydia Ags"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "210. What is the most common tick-borne disease in the U.S.?; =",
+        "choices": {
+          "A": "Botulism",
+          "B": "Cholera",
+          "C": "Lyme disease",
+          "D": "Legionnaires"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "211. What is erythema cnironicum migrans (ECM)?",
+        "choices": {
+          "A": "Cardinal sign of Lyme disease at site of tick'bite \"",
+          "B": "Detects the entry of hc »>kworm larvae",
+          "C": "Initial stage in psittacosis",
+          "D": "Rash in rickettsial infections"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "212. What are broad spectrum antibiotics?.",
+        "choices": {
+          "A": "Act against gram-negative bacteria",
+          "B": "Act against gram-positive bacteria",
+          "C": "Act against bacterial and nonbacterial organisms",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "213. Substances, produced by microorganisms, that in very small amounis inhibit other microorganisnis are called",
+        "choices": {
+          "A": "Antibiotics",
+          "B": "Antibody",
+          "C": "Antiseptic",
+          "D": "A and B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "214. Bacteriostatic agents do which of the following? --",
+        "choices": {
+          "A": "Cause death of the organism",
+          "B": "Inhibit the growth of the organism",
+          "C": "A and B",
+          "D": "Neither A nor B"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "215. The time it takes half a dose cf antibiotic to disappear from the blood is called the",
+        "choices": {
+          "A": "Full-life",
+          "B": "Adsorption time",
+          "C": "Half-life",
+          "D": "Real-life 1B"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "216. Resistance to an antibiotic can be transferred from a resistant to a susceptible organism by",
+        "choices": {
+          "A": "Selectivity pressure",
+          "B": "Mutation",
+          "C": "Innate passage",
+          "D": "Extrachromosomal plasmid"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "217. In the Kirby-Bauer susceptibility test, the 0.5 McFarland standard is used to: '",
+        "choices": {
+          "A": "Maasure the thickness of the media in the Petri plate",
+          "B": "Determine how close the antibiotic discs should tie placed",
+          "C": "Adjust the turbidity of the inoculum",
+          "D": "All of the above"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "218. After inoculating the Mueller-Hinton plates for the Kirby-Bauer susceptibility test, how long should the vlates dry \" before adding the disks? '",
+        "choices": {
+          "A": "3-5 minutes",
+          "B": "Not more than 15 minutes",
+          "C": "30 minutes",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "219. How does one measure the zone of growth inhibitior. for the Kirby-Bauer susceptibility test?",
+        "choices": {
+          "A": "On the underside of the plate",
+          "B": "With the unaided eye:.",
+          "C": "Using a ruler, caliper or template",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "220. What does the size of the zone of growth inhibition correlate with if the correct procedure has been used?",
+        "choices": {
+          "A": "Maximum inhibitory concentration",
+          "B": "Minimum inhibitory concentration",
+          "C": "Minimum lethal concentration",
+          "D": "Minimum bactericidal concentration"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "221. If there is too much moisture cn the surface of a Mueller-Hinton plate when perfo 'ming a Kirby-Bauer; Susceptibility test, what will happen to the growth? i",
+        "choices": {
+          "A": "Larger zone",
+          "B": "Smaller zone",
+          "C": "Confluent growth",
+          "D": "B and C"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "222. Which of the following are the best indicators of poor storage?",
+        "choices": {
+          "A": "Chloramphenicol and cephalosporins",
+          "B": "Penicillin and methicillin",
+          "C": "Lincomycin and penicillin",
+          "D": "Methicillin and lincomycin"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "223. In Mueller-Hinton agar, what can cause increased resistance of Psedomonas aeruginosa to aminoglycosides?",
+        "choices": {
+          "A": "Decreased peptone",
+          "B": "Decreased sodium chloride",
+          "C": "Increased calcium and magnesium '",
+          "D": "Decreased calclum and magnesium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "224. When doing a susceptibility test with sulfonamides, there are two concentric zones around tne disk. How should the zone be measused?",
+        "choices": {
+          "A": "Measure the diameter of the inner zone DCs",
+          "B": "Measure the diameter of the outer zone",
+          "C": "Measure both zones and take the average size -",
+          "D": "Zone cannot be measused"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "225. The lowest concentration of drug that will kill all but the minimum defined proportion of viable organisms after incubation for a fixed time under a given set of conditions is definition of the",
+        "choices": {
+          "A": "Minimum lethal concentration",
+          "B": "Minimum bactericidal concentration",
+          "C": "Maximum lethal concnetre'tion",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "226. oa 226. For quality control when monitoring reagents, how often should reagent disks be cl.ecked?",
+        "choices": {
+          "A": "When container is first opened",
+          "B": "Once each v-eek of use",
+          "C": "Once each month, —",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "227. How often should catal se, oxidase, and coagulase reagents ba tested?",
+        "choices": {
+          "A": "Once each day of use",
+          "B": "Once each week of use",
+          "C": "When vial is first cpened",
+          "D": "A and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "228. Record temperatures of incubators, water baths, heating blocks, refrigerators, freezers, and thermometers",
+        "choices": {
+          "A": "At each time of use",
+          "B": "At the beginning of each day",
+          "C": "At the end of each day",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "229. Check the face velocity of safety cabinets each:: '",
+        "choices": {
+          "A": "Day",
+          "B": "Week",
+          "C": "Month",
+          "D": "Year"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "230. Settings of rpms marked on the face of the rheostat control on the centrifuge should be checked ence",
+        "choices": {
+          "A": "Weekly",
+          "B": "Daily",
+          "C": "Monthly",
+          "D": "Every other week Leah Sept'05 RBB Sopt'05"
+        },
+        "answer": "C"
+      }
+    ],
+    "Mycology": [
+      {
+        "question": "2. Characteristically, fungl: a",
+        "choices": {
+          "A": "Are members of the plant kingdom",
+          "B": "Lack roots and stems",
+          "C": "Lack chlorophyll",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "3. Coenocytic hyphae is a synonym for",
+        "choices": {
+          "A": "Sepatate hyphae",
+          "B": "Arthroconidia",
+          "C": "Pseudohyphae",
+          "D": "Aseptate hyphae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "4. Which type of mycoses produce no cellular response yy the host?",
+        "choices": {
+          "A": "Deep mycoses",
+          "B": "Cutaneous",
+          "C": "Superficial mycoses",
+          "D": "Systemic mycoses"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "5. Arthroconidia on the outside of the hair as well as hyphae within the hair shaft is called",
+        "choices": {
+          "A": "Ectothrix",
+          "B": "Endothrix",
+          "C": "Scutula",
+          "D": "Dimorphic"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "6. True yeast produce which of the following in the asexual stage?",
+        "choices": {
+          "A": "Chlamydospores",
+          "B": "Favic chandeliers",
+          "C": "Blastoconidia",
+          "D": "Arthroconidia"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "7. Septate hyphae have:.",
+        "choices": {
+          "A": "No divisions",
+          "B": "Divisions",
+          "C": "Pseudohyphae",
+          "D": "Vegetative parts"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "8. iaciiead 8. Molds with aseptate hyphae produce a specialized hyphal structure called a",
+        "choices": {
+          "A": "Conidiophore",
+          "B": "Sporangiophore",
+          "C": "Thallospore",
+          "D": "Zygospore"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "9. The basic, branching, intertwining structures of molds are referred to as",
+        "choices": {
+          "A": "Mycelium",
+          "B": "Rhizoids",
+          "C": "Conidia",
+          "D": "Spores"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "10. Arthroconidia are formed: 2",
+        "choices": {
+          "A": "Directly from the hyphae by fragmentation",
+          "B": "By daughter cells piching off from portions of the:nother cell",
+          "C": "By knots of twisted hyphae '",
+          "D": "Within the hyphae!"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "11. Mycelia within the colony wnat grow into the substrate are called",
+        "choices": {
+          "A": "Aerial hyphae",
+          "B": "Conidiophores",
+          "C": "Macroconidia",
+          "D": "Vegetative hyphae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "12. Chlamydospores that grow within the hyphae are referred to as",
+        "choices": {
+          "A": "Spirals",
+          "B": "Terminal",
+          "C": "Intercalary",
+          "D": "Sessile"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "13. Budding forms in which the daughter cell forms as a bud from a single mother cell or forms laterally from a mycelium or pseudomycelium are called:",
+        "choices": {
+          "A": "Blastospores",
+          "B": "Chlamydospores",
+          "C": "Ascospores",
+          "D": "Sporangiospores"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "14. Which of the following are the result of asexual reproduction? i",
+        "choices": {
+          "A": "Arthrospores",
+          "B": "Ascospores",
+          "C": "Zygospores",
+          "D": "BiindC"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "15. Conidia are: '",
+        "choices": {
+          "A": "Asexual spores",
+          "B": "Sexual spores",
+          "C": "Vegetative spores",
+          "D": "Asexual or sexual spores"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "16. Macroconidia are usually",
+        "choices": {
+          "A": "Multicel!ular",
+          "B": "Unicellular",
+          "C": "Square",
+          "D": "Rectangular"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "17. The swollen portion of the conidiophore is calied the",
+        "choices": {
+          "A": "Spheiule",
+          "B": "Sporangium",
+          "C": "Sterigmata",
+          "D": "Vesicle nr"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "18. 'Which'oF the following statements does NOT apply to true yeasts?",
+        "choices": {
+          "A": "Ascospores are produced in the sexual phase",
+          "B": "Blastospores are the sexual reproductive form",
+          "C": "Saccharomyces is a representative of this group",
+          "D": "They exhibit thernal dimorphism"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "19. Conidia with rough or spiny surfaces are described as",
+        "choices": {
+          "A": "Catenate",
+          "B": "Echinutate",
+          "C": "Pedunculate",
+          "D": "Sessile"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "20. Conidia in chains.are said to be",
+        "choices": {
+          "A": "Catenate",
+          "B": "Echinulate",
+          "C": "Pedunculate",
+          "D": "Sessile"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "21. When preparing temporary mounts of fungal elements, why is the slide gently heated?.",
+        "choices": {
+          "A": "Preserves the specimen",
+          "B": "Increases the rate of clearing",
+          "C": "Mounts the specimen",
+          "D": "All of the above"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "22. Which of the following acts as a clearing agent to eliminate debris and make fungal elements more prominent in skin, hair, and nails?",
+        "choices": {
+          "A": "Lactophenol cotton blue",
+          "B": "10% KOH",
+          "C": "70% alcohol",
+          "D": "Ether"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "23. What is the stain in Aman medium?",
+        "choices": {
+          "A": "Cotton blue",
+          "B": "Methylene blue",
+          "C": "Prussian blue",
+          "D": "Bromtnymol blue"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "24. Which of the following is negative stain?",
+        "choices": {
+          "A": "Periodic acid-Schiff stain",
+          "B": "Giemsa stain.",
+          "C": "Acridine orange stain",
+          "D": "India ink stain"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "25. In the periodic acid-Schiff stain (PAS), what colors denote the ~resence of glycogen?",
+        "choices": {
+          "A": "Blue to green",
+          "B": "Red to violet",
+          "C": "Pink to red",
+          "D": "Yellow to brown"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "26. Which of the following stains is used for sharp delineation of fungal elements by fluorescent microscopy?",
+        "choices": {
+          "A": "Gomori methenamine silver",
+          "B": "Calcofluor white",
+          "C": "Hematoxylin",
+          "D": "Eosin"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "27. When the fungus wall is invisible with the hematoxylin and eosin stain, which of the following may be used to restain the slide?",
+        "choices": {
+          "A": "Acid-fast stain",
+          "B": "Periodic acid-Schiff stain",
+          "C": "Gram stain (Hucker modification)",
+          "D": "Gomori methenamine silver stain"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "28. Fungal elements in the acridine orange staining procedure' '",
+        "choices": {
+          "A": "Stain red",
+          "B": "Do not stain",
+          "C": "Stain purple",
+          "D": "Fluoresces a green color"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "29. How does MYCOSEL medium differ from Sabouraud dextrose agar?",
+        "choices": {
+          "A": "Contains chloramphenicol and cycloheximide ' \"",
+          "B": "Does not contain dextrose",
+          "C": "Contains an indicator",
+          "D": "Stimulates. the production of chlamydospores"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "30. Which fungus medium is used for tne primary isolation and maintenance of fungal cultures?",
+        "choices": {
+          "A": "Sabouraud dextrose agar",
+          "B": "Cornmeal agar -",
+          "C": "Staib's medium eee",
+          "D": "Rice agar!"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "31. What is the indicator in Dermatophyte Test Medium?",
+        "choices": {
+          "A": "Methyl red",
+          "B": "Phenol red",
+          "C": "Bromcresol purple",
+          "D": "Methyl orange"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "32. If 1% glucose is added to cornmeal agar, Trichophyton rubrum can be differentiated from Trichophyton mentagrophytes by the production of",
+        "choices": {
+          "A": "Hyphae",
+          "B": "Ascospores",
+          "C": "Pigment",
+          "D": "Sporangia"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "33. Fungi should be incubated at:.",
+        "choices": {
+          "A": "25-30C -",
+          "B": "10-15",
+          "C": "35-37 C",
+          "D": "50-56 C"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "34. How long should fungus cultures be held before reporting as negative?",
+        "choices": {
+          "A": "5 days",
+          "B": "14 days",
+          "C": "48 hours",
+          "D": "30 days"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "35. Which of the following antibiotics can be added to media for the isolation of pathogenic fungi from contaminated © _ maierial?.",
+        "choices": {
+          "A": "Penicillin and streptomycin",
+          "B": "Vancomycin and nystatin",
+          "C": "Cycloheximide and chloramphenicol.",
+          "D": "Streptomycin and nystatin"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "36. Which of the following media stimulates the production of chlamydospores?",
+        "choices": {
+          "A": "Brain-heart infusion blood agar",
+          "B": "Czapek's ager",
+          "C": "Cornmeal agar.",
+          "D": "Urease test medium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "37. Which of the following media identifies sspecies of Aspergillus?",
+        "choices": {
+          "A": "Urease medium",
+          "B": "Rice agar",
+          "C": "Czapek's agar",
+          "D": "Ascospore ager"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "38. A positive result for the hair-baiting test is",
+        "choices": {
+          "A": "V-shaped penetration of the hair shaft",
+          "B": "The produciicn of germ tubes",
+          "C": "The production of red pigment",
+          "D": "The production of brown pigment"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "39. A tinea infection is commonly referred to as",
+        "choices": {
+          "A": "Taeniasis",
+          "B": "Ringworm",
+          "C": "Pityriasis",
+          "D": "Piedra"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "40. Which of these organisms is the usual cause of white jpiedra?",
+        "choices": {
+          "A": "Trichosporon beigelii",
+          "B": "Microsporum canis",
+          "C": "Piedraia horate",
+          "D": "Malasseizia furfur"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "41. Tinea unguium is a dermatophyte infection of the:;.",
+        "choices": {
+          "A": "Nail plates",
+          "B": "Beard",
+          "C": "Palm of hand",
+          "D": "Feet"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "42. The favus type of tinea capitis is caused by which of th following?",
+        "choices": {
+          "A": "Trichophyton violaceum",
+          "B": "Microsporum audouinii",
+          "C": "Trichophyton schoenleinii",
+          "D": "Candida albicans"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "43. Which of the following is/are anthrophilic? ee *",
+        "choices": {
+          "A": "Microsporum audouini', -",
+          "B": "Microsporum canis",
+          "C": "Microsporum gypseum. *",
+          "D": "All of these organisms"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "44. Hairs infected with which of these dermatophytes fluoresce under Wood's lamp?",
+        "choices": {
+          "A": "Trichophyton rubrum -",
+          "B": "Trichophyton tonsurans",
+          "C": "Microsporum canis",
+          "D": "Epidermophyton floccosum"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "45. Colonization by dermatophytic fungi of the hair, nails, <.nd skin is called",
+        "choices": {
+          "A": "Mycetoma",
+          "B": "Chromoblastomycosis",
+          "C": "Phaeohyphomycosis",
+          "D": "Dermatophytoses"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "46. Which of the following fungi is/are the cause of dermatophytoces?",
+        "choices": {
+          "A": "Epidermophyton",
+          "B": "Trichophyton",
+          "C": "Microsporum",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "48. Which of the following produces macroconidia that are larye, multicellular, and club-shaped with smooth walls?",
+        "choices": {
+          "A": "Fonsecaea pedrosoi",
+          "B": "Microsporum audouinii",
+          "C": "Epidermophton floccosum",
+          "D": "Trichophyton mentagrophy'es"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "49. Which statement is NOT true?",
+        "choices": {
+          "A": "Trichophyton mentagrophytes is urease positive",
+          "B": "Trichophyton mentagrophytes penetrates the hair shaft",
+          "C": "Trichophyton rubrum is noted for its \"hallocn\" forms",
+          "D": "Trichophyton rubrum produces a red pigment on some media"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "50. Which of the following produces small, very slow growing colonies and has favic chandeliers?",
+        "choices": {
+          "A": "Trichophyton tonsurans",
+          "B": "Miczosporum canis",
+          "C": "Trichophyton schoenleinii",
+          "D": "Epidermophyton floccosum!"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "51. Which of the following is diagnostic for chromoblastomycosis?.",
+        "choices": {
+          "A": "Flowerette conidia",
+          "B": "Asteroid body",
+          "C": "Sclerotic body",
+          "D": "Genn tube ="
+        },
+        "answer": "C"
+      },
+      {
+        "question": "52. Which of the following are found in the yeast phase of Sporothrix schenckii on culture medium at 37 Cc? of",
+        "choices": {
+          "A": "Sclerotic bodies",
+          "B": "Asteroid bodies",
+          "C": "Cigar-shaped yeast ceils",
+          "D": "Germ tube"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "53. Which of the following is the result of an antigen-antibody reaction in cases of sporotrichosis?",
+        "choices": {
+          "A": "Sclerotic body",
+          "B": "Flowerette conidia",
+          "C": "Sleeve conidia",
+          "D": "Asteroid body"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "54. In older mold cultures of Sporothrix schenckii, single conidia borne along the sides of the hypnae are referred as",
+        "choices": {
+          "A": "Cigar-shaped",
+          "B": "Flowerette",
+          "C": "Asteroid body",
+          "D": "Sieeve"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "55. Which of the following infections is caused by dematiaceous saprobes that invade organs of immunosuppressed hosts?",
+        "choices": {
+          "A": "Phaeohyphomycosis",
+          "B": "Chromoblastomycosis",
+          "C": "Hyalohyphomycosis",
+          "D": "Dermatophytoses"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "56. The most common cause of mycetoma (maduramycosis) in the U.S. is",
+        "choices": {
+          "A": "Pseudoallescheria boydii",
+          "B": "Nocardia asteroides",
+          "C": "Rhinosporidium seeberi",
+          "D": "Actinomadura madurae"
+        },
+        "answer": "?"
+      },
+      {
+        "question": "57. Dematiaceous fungi have colonies with: '",
+        "choices": {
+          "A": "Surface and reverse side light",
+          "B": "Surface and reverse side dark",
+          "C": "Surface light and reverse side dark",
+          "D": "surface dark and reverse side light"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "58. Which of the following are a dematiaceous fungi?",
+        "choices": {
+          "A": "Sporotrichum and Aspergillus",
+          "B": "Phialophora and Cladosnorium",
+          "C": "Penicillium and Acremonium s '",
+          "D": "Fusarium and Paecilomyces"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "60. Sclerotic bodies aré found in tissue in an infection with: oe",
+        "choices": {
+          "A": "Candida",
+          "B": "Cladosporium",
+          "C": "Chrysospornium",
+          "D": "Coccidioides"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "61. Infection of chromoblastomycosis is NOT caused by which of the following fungi?",
+        "choices": {
+          "A": "Exophiala",
+          "B": "Cladosporium",
+          "C": "Phiatophora",
+          "D": "fonsecaea '"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "62. A fungus thet grows as 2 moid at 35-37 C and a mold at 25 C is described as",
+        "choices": {
+          "A": "Moncmorphic",
+          "B": "Mycelial",
+          "C": "Dimorphic",
+          "D": "Eumycctic ae"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "63. True fungi that produce hyphae and spore forms are Known as",
+        "choices": {
+          "A": "Eumycotic",
+          "B": "Monomorphic",
+          "C": "Dimorphic",
+          "D": "Yeasts"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "64. Which of the following causes an infection by hyaline saprebes that invade most tissues or bady fiuids of * immunosuppressed hosts?",
+        "choices": {
+          "A": "Aspergillus",
+          "B": "Penicillium marnefici",
+          "C": "Fusarium meniliforme",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "65. If you observe cleistothecia containing ascospores, recon the organism as",
+        "choices": {
+          "A": "Scedosporidium apiospermum",
+          "B": "Actinomyces israelii",
+          "C": "Nocardia asteroids",
+          "D": "Pseudoallescheria boydii"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "66. The actinomycetes are best classified as",
+        "choices": {
+          "A": "Acid-fast bacteria",
+          "B": "Eumycetes",
+          "C": "Funguslike bacteria",
+          "D": "Opportunistic fungi"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "67. Which of the following is anaerobic, gram-positive but not acid-fast, and does not stain with fungal stains?",
+        "choices": {
+          "A": "Nocardia asteroides",
+          "B": "Nocardia brasiliensis",
+          "C": "Actinomyes israeli",
+          "D": "Actinomadura madurae F"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "68. Which of the following has a capsule? =",
+        "choices": {
+          "A": "Candida albicans",
+          "B": "Geotrichum candidum",
+          "C": "Cryptococcus neoformans",
+          "D": "Blastomyces dermatitidis."
+        },
+        "answer": "C"
+      },
+      {
+        "question": "69. 69. When culturing Cryptococcus on Sabcuraud dextrose agar, which of the following antibiotics should not be in the =e medium'?",
+        "choices": {
+          "A": "Trimethoprim",
+          "B": "Vancomycin",
+          "C": "Aminogiycoside",
+          "D": "Cycloheximide"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "70. In the direct microscopic examination of cerebrospirial fluid, which of the following can be mistaken for a lymphocyte?.",
+        "choices": {
+          "A": "Candida",
+          "B": "Cryptococcus",
+          "C": "Geotrichum",
+          "D": "Blastomyces {"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "71. Why does Cryptococcus neoformans produce a brown color on Birdseed or staib agar?",
+        "choices": {
+          "A": "Assimilates creatinine",
+          "B": "Ferments glucose",
+          "C": "Assimilates niacin",
+          "D": "Ferments trehalose"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "72. Cryptococcus neoformans has the following biochemical reaction/s",
+        "choices": {
+          "A": "Urease positive",
+          "B": "Inositol positive",
+          "C": "Nitrate negative",
+          "D": "All of the above '"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "73. Cryptococcus neoformans latex agglutination test on spinal fluid detects cryptococcal",
+        "choices": {
+          "A": "Creatinine",
+          "B": "Antioody",
+          "C": "Carbohydrate",
+          "D": "Antigen"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "74. Candida albicans produces: j",
+        "choices": {
+          "A": "Blastosporés",
+          "B": "Chlamydospores",
+          "C": "Pseudohyphae",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "75. Which of the following is another name for oral candidiasis?",
+        "choices": {
+          "A": "Ringworm",
+          "B": "Thrush",
+          "C": "Barber's itch",
+          "D": "Favus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "76. A presumptive identificatio 1 of Candida albicans can be made by checking the ability of he organism to produc? what structure with serum.",
+        "choices": {
+          "A": "Blastospores",
+          "B": "Chlamydospores",
+          "C": "Germ tube",
+          "D": "Pseudohyphae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "77. Cornmeal agar plus Tween 80 Is used to identify se albicans through the organism's production of",
+        "choices": {
+          "A": "Capsules",
+          "B": "Chlamydospores",
+          "C": "Germ tubes",
+          "D": "Sporangia"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "78. Geotrichum candidum colonies appear as",
+        "choices": {
+          "A": "Slow growing, dematiaceous growth",
+          "B": "Rapid, yeastlike growth",
+          "C": "Slow growing, violet, waxy growth",
+          "D": "Rapid ¢ owing, suede-like growth"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "79. Laboratory workers are in no danger when handling which fonn of dimorphic fungi?",
+        "choices": {
+          "A": "Yeast form (tissue)",
+          "B": "Hyphal form (culture)",
+          "C": "A and B",
+          "D": "Neither A nor B 30"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "80. Sepedonium produces spiny, tuberculate macroconidia but is a:. =",
+        "choices": {
+          "A": "Dimorphic fungus",
+          "B": "Yeastlike fungus",
+          "C": "Monotnorphic mold",
+          "D": "A and B"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "81. Which of the following are produced by Geotrichum candidum?",
+        "choices": {
+          "A": "Rectangular, evenly staining arthroconidia",
+          "B": "Small, budding yeast cells",
+          "C": "Cigar-shaped yeast cells",
+          "D": "uberculate macroconidia"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "82. Which of the following is/are dimorphic fungi?",
+        "choices": {
+          "A": "Histoplasma capsulatum",
+          "B": "Blastomyces dermatitidis",
+          "C": "Paracoccidioides brasiliensis",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "83. The tissue phase of Histoplasma capsulatum, characteristically shows",
+        "choices": {
+          "A": "Pseudohyphae with blastospores",
+          "B": "Yeast forms with multiple buds",
+          "C": "Yeast cells within macrophages",
+          "D": "Tuberculate chlamydospores"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "84. ne 84. The characteristic structures of the mycelial phase cfiHistoplasma capsulatum are",
+        "choices": {
+          "A": "Blastospores",
+          "B": "Arthrospores with a germ tube in one corner",
+          "C": "Tuberculate chlamydospores",
+          "D": "Yeast cells usually in monocytes"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "85. Leishmania can be differentiated from Histoplasma because Leishmania has",
+        "choices": {
+          "A": "Adifferent size",
+          "B": "Adifferent shape",
+          "C": "Central nuclear material",
+          "D": "None of the above"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "86. Which of the following te.ts may be sued instead of conversion when identifyine dimorphic fungi?",
+        "choices": {
+          "A": "Exoantigen test",
+          "B": "String test",
+          "C": "Immunofluorescence test",
+          "D": "ELISA"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "87. In the mycelial form, Blastomyces dermatitidis produces: 7 4 ~*",
+        "choices": {
+          "A": "Conidiophores that resemble lollipops",
+          "B": "Wide, septate hyphae",
+          "C": "Broad, nonseptate hyphae",
+          "D": "Delicate, branching, acid-fast hyphae"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "88. A yeast form with a single broad-based bud would identify an organism as",
+        "choices": {
+          "A": "Blastomyces",
+          "B": "Coccidioides",
+          "C": "Histoplasma",
+          "D": "Sporothrix"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "89. The characteristic structures of the mycelial phase of blastomycosis are",
+        "choices": {
+          "A": "Clusters of blastospores",
+          "B": "Small pear-shaped conidia called lollipops",
+          "C": "Numerous intercalary or termina! chiamydospores i",
+          "D": "Spherweés fille. with endospores"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "90. Yeastlike forms with multiple buds are characteristic jorms associated with",
+        "choices": {
+          "A": "Blastomyces derrnatit.Jis",
+          "B": "Candida albicans",
+          "C": "Paracoccidioides brasiliensis",
+          "D": "Sporothrix schenckii"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "91. Immature spherules of Coccidioides are differentiated from yeast forms of Blastomyces because: '",
+        "choices": {
+          "A": "They produce buds",
+          "B": "Their buds have a wide base",
+          "C": "Their buds have a narrow base",
+          "D": "They never bud"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "92. Which of the following fungi is a major biohazard to laboratory personnel?",
+        "choices": {
+          "A": "Coccidioides immitis",
+          "B": "Cryptococcus neoformans",
+          "C": "Fonsecaea pedrosoi",
+          "D": "Histoplasma capsulatum"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "93. The exoantigen test is a/an:",
+        "choices": {
+          "A": "Indirect passive agglutination test",
+          "B": "Microscopic immunodiffusion test",
+          "C": "Neutralization test",
+          "D": "Rocket electrophoresis technique"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "94. In the exoantigen test for Histoplasma capsulatum, which bands are present in a p sitive result? 5.",
+        "choices": {
+          "A": "H and/or M",
+          "B": "J and/or L",
+          "C": "A and/or",
+          "D": "O and/or P"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "95. When differentiating Histoplasma capsulatum from Leishmania using special fungus 'tains, Leishmania stains",
+        "choices": {
+          "A": "Green",
+          "B": "Red",
+          "C": "Blue",
+          "D": "Will not stain"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "97. Which of the following fungi produces a spherule that is filled with endospores?",
+        "choices": {
+          "A": "Histoplasma capsulatum '",
+          "B": "Coccidioides immitis",
+          "C": "Blastomyces immitis",
+          "D": "Rhisopus arthizus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "98. Zygomycosis is caused by which of the following genera?",
+        "choices": {
+          "A": "Aspergillus and Rhizopus",
+          "B": "Rhizopus and Aureobasidium",
+          "C": "Mucor and Aspergillus",
+          "D": "Mucor and Rnizopus"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "99. Fungal elernents in zygomycosis show hyphae thai are: -",
+        "choices": {
+          "A": "Broad and nonseoiate",
+          "B": "Broad and septate",
+          "C": "Narrow and septate",
+          "D": "Regular and dichotomous branching, ALN March 2005 RBB March 2005"
+        },
+        "answer": "A"
+      }
+    ],
+    "Parasitology": [
+      {
+        "question": "1. The motile, reproducing stage, feeding stage of the Protozoa is which of the following?",
+        "choices": {
+          "A": "Cyst",
+          "B": "Trophuzoite",
+          "C": "Ova",
+          "D": "Adult worm"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "2. Which of the following amebae has chromatoid bodies in the cyst stage? Se ee",
+        "choices": {
+          "A": "endolimex",
+          "B": "lodamoeba",
+          "C": "Dientamoeba",
+          "D": "Entamoeba"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "3. Amebiasis is caused by:",
+        "choices": {
+          "A": "I. butschlii",
+          "B": "E. polecki",
+          "C": "E. histolytica",
+          "D": "E. coli"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "4. Which of the following organs of the body is most often involved in extraintestinal arnebiasis?",
+        "choices": {
+          "A": "Lungs",
+          "B": "Kidneys",
+          "C": "Pancreas",
+          "D": "liver"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "5. Which of the foliowing is characteristic of true amebae? (",
+        "choices": {
+          "A": "Peripheral chromatin on the nuclear body",
+          "B": "Chromatin bodies In the cyst",
+          "C": "Include pathogens and nenpathogens",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "6. Which of the following Is a true ameba?",
+        "choices": {
+          "A": "E. nana",
+          "B": "E. hartmanni",
+          "C": "D. fragilis",
+          "D": "|. butschiii"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "7. Amebae that inhabits the gastrointestinal tract of man are nonmotile, nonfeeding, and infective during which stage?",
+        "choices": {
+          "A": "Pseudopod' —",
+          "B": "Cyst",
+          "C": "Trophozoiie",
+          "D": "Cryptozoite"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "8. Mature cysts of E. polecki have how many nuclei?, a",
+        "choices": {
+          "A": "2",
+          "B": "8",
+          "C": "1",
+          "D": "90"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "9. Which of the following has cysts with chromatoid bedies 'hat have two pointed ends or that can be round, triangular or oval? ys",
+        "choices": {
+          "A": "E. coli",
+          "B": "E. polecki",
+          "C": "E. histolytica",
+          "D": "E. gingivalis"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "10. Trophozoites of Entamoeba histolytica have the following characteristics",
+        "choices": {
+          "A": "Smiali, delicate nuclear chromatin.",
+          "B": "Fine, even, peripheral chromatin",
+          "C": "Progressive motility with hyaline, finger-like pseudopods",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "11. Which of these trophozoites, when acting as a oathogen, is likely to ingast red blood cells of the Kost?",
+        "choices": {
+          "A": "E. coli",
+          "B": "E. hartmanni",
+          "C": "E. histolytica",
+          "D": "E. nana"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "12. The point of differentiation between Entamoeba histolytica and E. hartmanni is",
+        "choices": {
+          "A": "Presence of peripheral chromatin",
+          "B": "Presence of chromatoid bodies",
+          "C": "Only one possesses a cyst form",
+          "D": "Size"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "13. The mature cyst of Entamoeba histolytica has how many nuclei?",
+        "choices": {
+          "A": "One",
+          "B": "Two",
+          "C": "Four",
+          "D": "More than four"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "14. Failure.to find bacteria in purulent spinal fluid should alert one to find the possibility of an infection with",
+        "choices": {
+          "A": "Viruses",
+          "B": "Amebae *",
+          "C": "Flagellates",
+          "D": "Worms"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "16. Which trophozoite is distinguished by the possession 0} achromatic granules surrounding its karyosomal j chromatin?.",
+        "choices": {
+          "A": "E. nana",
+          "B": "E. histolytica",
+          "C": "E. coli",
+          "D": "|. butschlii"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "17. Which of the following would have a double-walled, wrinkled cyst form?",
+        "choices": {
+          "A": "N. fowleri",
+          "B": "E. hartmanni",
+          "C": "A. castellanii",
+          "D": "D. fragilis."
+        },
+        "answer": "C"
+      },
+      {
+        "question": "18. Acyst that possesses a single nucleus and a large glycogen vacuole that stains deeply with iodine belong to",
+        "choices": {
+          "A": "E. nana",
+          "B": "I. butschlii",
+          "C": "D. fragilis",
+          "D": "E. coli"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "19. Some amebae have spiny, hyaline extensions called",
+        "choices": {
+          "A": "Pseudopods",
+          "B": "Limax forms",
+          "C": "Cribriform plates",
+          "D": "Acanthopods"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "20. C. Which are the best staining procedures for sspecies of Naegleria and Acanthamoeba?",
+        "choices": {
+          "A": "Gram stain",
+          "B": "Herr ttoxylin and eosin",
+          "C": "Wright stain",
+          "D": "B and C ' '"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "21. Amebae inhabiting the central nervous system enter the body through the",
+        "choices": {
+          "A": "Mouth",
+          "B": "Nasal mucosa",
+          "C": "Ears",
+          "D": "Feet"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "22. In which specimen are Aca.:thamoeba and naeyleria usually found?",
+        "choices": {
+          "A": "Blood *",
+          "B": "Cerebrospinal fluid",
+          "C": "Urine",
+          "D": "Joint fluid"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "23. Naegleria has which of the following characteristics?",
+        "choices": {
+          "A": "Found in tha brain",
+          "B": "Trophozoite can assume a limax form",
+          "C": "Trophozoite can become an ameba flagellate",
+          "D": "All of the above."
+        },
+        "answer": "D"
+      },
+      {
+        "question": "24. The trophozoite whose karyosomal chromatin appears as a rosette of 4-5 granules is identified as:",
+        "choices": {
+          "A": "N. fowleri",
+          "B": "D. fragilis",
+          "C": "T. gondii",
+          "D": "B. coli"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "25. Which of the following are often mistaken for cysts of arnebae?",
+        "choices": {
+          "A": "Blastocystis hominis",
+          "B": "Amnionium carbonate crystals",
+          "C": "Ammonium.nagensiurr phosphate crystals",
+          "D": "Epithelial cals"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "26. Intestinal flagellates are usually which shape in the trodhozoite stage?",
+        "choices": {
+          "A": "Round",
+          "B": "Oval",
+          "C": "Pear-shaped",
+          "D": "Triangular g 4"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "27. Which of the following is pathognomonic for G. lamblia and the stage It Is found In? ie",
+        "choices": {
+          "A": "Spiral groove — trophozoite",
+          "B": "Undulating membrane — cyst",
+          "C": "Cytostome — trophozoite",
+          "D": "Ventral sucking disk — trophozoite"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "28. Which of the following protozoa have an undulating membrane?",
+        "choices": {
+          "A": "Trichomonas",
+          "B": "Trypanosoma",
+          "C": "Chilomastix",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "29. Infections with D. fragilis can show which of the following symptoms?",
+        "choices": {
+          "A": "Diarrhea",
+          "B": "Abdomina: discomfort without diarrhea",
+          "C": "Asymtomatic '",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "30. What does D. fragilis have in common with T. vaginalis?",
+        "choices": {
+          "A": "Both are ciliate",
+          "B": "Both can appear as urine contaminants",
+          "C": "Neither has a cyst form",
+          "D": "All of the above; °"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "31. Which flagellate can be a pathogen of the small intestine?",
+        "choices": {
+          "A": "Giardia",
+          "B": "Trichomonas",
+          "C": "Chilomastix",
+          "D": "Strongyloides"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "33. Which intestinal flagellate trophozoite has,a sucking disc, 2 nuclei, 8 flagella, and a axostyle?",
+        "choices": {
+          "A": "C. mesnili",
+          "B": "D. fragilis",
+          "C": "G. lamblia",
+          "D": "T. rcminis"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "34. Red and white blood cells in stool specimens are characterist'c of; j",
+        "choices": {
+          "A": "Meningcencephalitis",
+          "B": "Bacillary dysentery",
+          "C": "Giardiasis",
+          "D": "None of the above"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "35. A pear-shaped flagellate with jerky motility that is found in a urine specimen is identified as:.",
+        "choices": {
+          "A": "T. hominis",
+          "B": "T. vaginalis",
+          "C": "E. call",
+          "D": "Leptospira"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "36. Eighty percent of the trophozoites of D. fragilis have:.",
+        "choices": {
+          "A": "2 nuciei",
+          "B": "3 nuclei",
+          "C": "1 nucleus",
+          "D": "No nuclei"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "37. The only bilaterally symmetrical protozoan is",
+        "choices": {
+          "A": "trichomonas *",
+          "B": "Dientamoeba",
+          "C": "Giardia",
+          "D": "Balantidium"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "38. Which of the following 'is the intracellular form of blood and tissue flagellates?",
+        "choices": {
+          "A": "Crithidial -",
+          "B": "Leishmanial",
+          "C": "Trypanosoma!",
+          "D": "Leptomonad"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "39. Which of the following is the cause of African sleeping sickness? 3",
+        "choices": {
+          "A": "Leishmania",
+          "B": "Trypanosoma",
+          "C": "Plasmodium",
+          "D": "Babesia"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "40. Which of the following is the vector of African sleeping sickness?",
+        "choices": {
+          "A": "Reduviid bug'(Triatoma)",
+          "B": "Sandfly (Phlebotemus)",
+          "C": "Tsetse fly (Glossina)",
+          "D": "Ticks"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "41. Which sspecies of Tryoanosoma is the cause of Chagas' disease?",
+        "choices": {
+          "A": "Rhodesiense",
+          "B": "Cruzi",
+          "C": "Gambiense",
+          "D": "A and C"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "42. Which of the following is characteristic of the trypanosome form of Trypanosoma cruzi?",
+        "choices": {
+          "A": "Prominent kinetoplast",
+          "B": "C-shaped",
+          "C": "Thick organism",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "43. Which specimen would be suitable for a demonstration of the trypanosomes of sleeping sickness?",
+        "choices": {
+          "A": "Blood",
+          "B": "Fiuid from lymph node",
+          "C": "CSF",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "44. The extracellular form of Trypanosoma is a slender organism characterized by an unaulating memorane and a free flagellum that arises",
+        "choices": {
+          "A": "Anteriorly from the nucleus",
+          "B": "Posteriorly from the kintoplast",
+          "C": "Centrally from the antezior end. 7",
+          "D": "Posteriorty from the nucleus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "45. Which of the following is found within the reticuloendothelial ceils?",
+        "choices": {
+          "A": "L. donovani",
+          "B": "H. capsulatum",
+          "C": "T. gondii",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "46. How is Trypanosoma cruzi transmitted? '",
+        "choices": {
+          "A": "Inhalation",
+          "B": "Bite of isetse fly",
+          "C": "Bite of reduviid bug",
+          "D": "Sexual contact,."
+        },
+        "answer": "C"
+      },
+      {
+        "question": "47. A chagome is a lesion seen in infections with:. oo",
+        "choices": {
+          "A": "Trypanosoma gambiense",
+          "B": "Trichomans vaginalis",
+          "C": "Trichuris trichiura",
+          "D": "Trypanosoma cruzi"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "48. Which organism is the cause of kala-azar?_—.",
+        "choices": {
+          "A": "L. donovani",
+          "B": "L. braziliensis",
+          "C": "T. cruzi",
+          "D": "T. gambiense"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "49. In the laboratory diagnosis of L. donovani, which is th2 preferred specimen in which to find Leihman-Donovan bodies?.",
+        "choices": {
+          "A": "Bone marrow",
+          "B": "Blood",
+          "C": "Vaginal secretions",
+          "D": "CSF"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "50. Which of the following is the only ciliate that is pathogenic in humans?",
+        "choices": {
+          "A": "Babesia",
+          "B": "lsospora",
+          "C": "B. coli",
+          "D": "E. coli '"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "51. A very large cyst whose double wall encloses a cilited organism with cne visible nuclei would be: °",
+        "choices": {
+          "A": "Transmitted by a mosquito to man'",
+          "B": "Acquired by accident by man, since it customarily infects swine",
+          "C": "Amember of the Sporozoa",
+          "D": "Demonstrated only by the trichrome stain"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "52. Which of the following structures are used for motility of Balantidium coli?",
+        "choices": {
+          "A": "Flagella",
+          "B": "Cilia",
+          "C": "Pseudopodia",
+          "D": "Undulating mernbrane"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "53. Which nucleus in the trophozoite of Balantidium coli is the reproductive one?",
+        "choices": {
+          "A": "Micronucleus",
+          "B": "Macronucleus",
+          "C": "A and B",
+          "D": "Neither A nor B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "54. Conjugation of trophozoites of Balantidium coli never occurs between",
+        "choices": {
+          "A": "Large organisms",
+          "B": "Same size organisms 4",
+          "C": "Large and small organisms *",
+          "D": "Very large organisms ' J"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "55. The definitive host (vector) to Plasmodium Is the",
+        "choices": {
+          "A": "Tsetse fly (Glossina)",
+          "B": "Sandfly (Phlebotomus)",
+          "C": "Fernale Anopheles mosquito A >",
+          "D": "Male reduviid bug (Triatoma)."
+        },
+        "answer": "C"
+      },
+      {
+        "question": "56. Which of the malarial organisms presents as pale, very ameboid ring trophozoites, infecting a large pale red blood call with dots of hemoglobin?",
+        "choices": {
+          "A": "P. ovale",
+          "B": "P. malariae",
+          "C": "P. falciparum",
+          "D": "P. vivax"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "57. Which of the malarial organisms preferentially invades reticulocytes?.",
+        "choices": {
+          "A": "P. falciparum",
+          "B": "P. malariae",
+          "C": "P. vivax",
+          "D": "All of the above"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "58. The malarial organism whose schizont resembles a \"fruit pie\" in which the merozoite form a rosette around the malarial pigment fs",
+        "choices": {
+          "A": "P. malariae",
+          "B": "P. vivax",
+          "C": "P. ovale",
+          "D": "P. falciparum"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "59. Which malarial organism characteristically has a band form trophozoite stretching across the red blood cell?",
+        "choices": {
+          "A": "P. malariae",
+          "B": "P.ovale",
+          "C": "P. vivax",
+          "D": "P. falciparum za"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "60. The gametocyte of Plasmodium falciparum can be differentiated from that of other malarial sspecies by: ———— ee",
+        "choices": {
+          "A": "Number of nuclei",
+          "B": "Nuclear chromatin",
+          "C": "Size",
+          "D": "Shape"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "61. In which type of malaria can Ziemann's stippling he found?.",
+        "choices": {
+          "A": "Vivax",
+          "B": "Malariae",
+          "C": "Ovale",
+          "D": "Falciparum"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "62. In which type of malaria can Maurer's dots be found? i",
+        "choices": {
+          "A": "Vivax malaria",
+          "B": "Malariae malaria",
+          "C": "Ovale malaria",
+          "D": "Falciparum"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "63. Which malarial organism features ring trophozoites that have double chromatin dots, applique forms and often have multiple parasites in the infected red blood cells?.",
+        "choices": {
+          "A": "P. vivax",
+          "B": "P. falciparum",
+          "C": "P. malariae",
+          "D": "P. ovale"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "64. Which malarial organism has large, coarse, red dots within a large, pale red blood cell with fimbriated edges?",
+        "choices": {
+          "A": "P. vivax",
+          "B": "P. falciparum",
+          "C": "P, ovale",
+          "D": "P. malariae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "65. The sexual reproduction cycle in Plasmodium and Coc zidia is referred to as",
+        "choices": {
+          "A": "Sporogony",
+          "B": "Schizogony",
+          "C": "Sporocyst",
+          "D": "None of the above"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "66. What is the infective stage of the malarial parasite to the vector?",
+        "choices": {
+          "A": "Cryptozoites *",
+          "B": "Trophozoite.",
+          "C": "Gametocyte",
+          "D": "Ookinete"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "67. What is the infective stage of the malaria! parasite to humans?",
+        "choices": {
+          "A": "Gametocyte",
+          "B": "Cryptozoites",
+          "C": "Schizonts '",
+          "D": "Sporozoites"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "68. In which type of malaria is there synchronized rupture of the red blood cells every 72 hours?",
+        "choices": {
+          "A": "Vivax malaria",
+          "B": "Falciparum malaria",
+          "C": "Ovale malaria",
+          "D": "Malariae"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "69.1n falciparum malaria, there may be a sudden massive intravascular hemolysis producing hamoglobinuria. This is called:. t f",
+        "choices": {
+          "A": "Blackwater fever",
+          "B": "Hemoglobinopathies",
+          "C": "Macrophilia",
+          "D": "A and C"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "70. Which nemoglobin is incompatible with malaria parasile survival?",
+        "choices": {
+          "A": "Hb-CC",
+          "B": "Hb-F",
+          "C": "Hb-SS",
+          "D": "Hb-A"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "71. What is the name of the laboratory test that allows laboratory-bred reduviid bugs to feed on patients suspected of, having Chagas' disease? '",
+        "choices": {
+          "A": "Complement fixation",
+          "B": "Serodiagnosis",
+          "C": "Xenodiagnosis",
+          "D": "Western blot"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "72. Humans are infected with Babesia by",
+        "choices": {
+          "A": "Bite of ticks",
+          "B": "Blood transfusion",
+          "C": "Bite of sandfly",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "73. If immature oocysts of Isospora belli are found in stool specimens from infected humans, what sheuld be done with the specimen for identification?",
+        "choices": {
+          "A": "Leave at room tempera.ure",
+          "B": "Leave in the refrigerator",
+          "C": "Leave in the incubator",
+          "D": "Leave in the water bath"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "74. Wisat stage of Isospora is infective to humaris?",
+        "choices": {
+          "A": "Oocysts",
+          "B": "Pseudocysts",
+          "C": "Larval",
+          "D": "Tac hyzoites 7"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "75. Isospora belli immature oocysts contain/s: ': is",
+        "choices": {
+          "A": "Sporozoites",
+          "B": "Tachyzoiies",
+          "C": "Pseudocysts",
+          "D": "Sporcblast"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "76. Infective oocysts of Isospora belli contain",
+        "choices": {
+          "A": "Sporozoites",
+          "B": "Tachyzoités",
+          "C": "Pseudocysts",
+          "D": "Sporoblast"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "77. The demonstration of retinochoroiditis and cerebra! calcifications in a newborn would result in which of these laboratory requests?",
+        "choices": {
+          "A": "Casoni skin test",
+          "B": "Ramon flocculation test",
+          "C": "MHA-ABS test for congenital syphilis",
+          "D": "Titer of Toxoplasma antibodies"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "78. What is both the definitive ard intermediate host of Toxoplasma gondii?",
+        "choices": {
+          "A": "Dog",
+          "B": "Cow",
+          "C": "Cat",
+          "D": "Chicken"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "79. What is the appearance of Toxoplasma gondii in tissue fluids of man?",
+        "choices": {
+          "A": "Oval",
+          "B": "Crescent",
+          "C": "Limax form",
+          "D": "Ring form."
+        },
+        "answer": "B"
+      },
+      {
+        "question": "80. What constitutes a positive result in the Sabin-Feldman dye test?",
+        "choices": {
+          "A": "Toxoplasma becomes nonmotile",
+          "B": "Toxoplasma can no longer be demonstrated as an intracellular organism",
+          "C": "Toxoplasma loses its affinity for methylene blue dye",
+          "D": "The mouse into which the immune serum is injected does not die from toxoplasmosis"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "81. Which of the following tests is used for the detection of Cryptosporidium?",
+        "choices": {
+          "A": "Sabin-Feldman dye test",
+          "B": "G-6-PD test",
+          "C": "Xenodiagnosis",
+          "D": "Sheather's sugar flotation"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "82. Which of the following parasites poses a particular hazard for immunodeficient or immunosuppressed individuals?",
+        "choices": {
+          "A": "Cryptosporidium",
+          "B": "Giardia",
+          "C": "Strongyloides",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "83. Which of the following parasites Is associaied with AIDS?.",
+        "choices": {
+          "A": "Isospora helii",
+          "B": "Sarcocystis",
+          "C": "Sabesia",
+          "D": "Cryptosporidium"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "84. Which operculated ovum contains a miracidium and can appear in sputum, often accompanied by blood and j: Charcot-Leyden crystals?. 3 ai",
+        "choices": {
+          "A": "Fasclola hepatica",
+          "B": "Paragonimus westermani",
+          "C": "Schistosoma mansoni ¢ ' -",
+          "D": "Dipylidium caninum"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "85. Which of the schistosome eggs may be recovered in rectal biopsy?",
+        "choices": {
+          "A": "Schistosoma haematobium",
+          "B": "Schistosoma mansoni",
+          "C": "Schistcsoma japonicum",
+          "D": "B and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "87. The scientific name of the head of a tapeworm is",
+        "choices": {
+          "A": "Scolex",
+          "B": "Proglottid",
+          "C": "Strobila -»",
+          "D": "Rostellum '"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "88. Which of the' following worms have an oral and ventra) shaped sucker in tha adult stage? ese",
+        "choices": {
+          "A": "Cestodes-",
+          "B": "Trematodes",
+          "C": "Nematodes",
+          "D": "Filarae"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "89. Which of the following are hermaphroditic?",
+        "choices": {
+          "A": "Flukes",
+          "B": "Roundworms",
+          "C": "Tapeworms",
+          "D": "A and C"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "90. Which of the following is the first intermediate host of the flukes?",
+        "choices": {
+          "A": "Snaii",
+          "B": "Water plant",
+          "C": "Fish °",
+          "D": "Crab"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "92. The common names for the schistosomes is: - | '",
+        "choices": {
+          "A": "Liver flukes",
+          "B": "Intestinal flukes",
+          "C": "Blood flukes",
+          "D": "Lung flukes."
+        },
+        "answer": "C"
+      },
+      {
+        "question": "94. What is the common name for Clonorchis sinensis? '8.",
+        "choices": {
+          "A": "Lung fluke",
+          "B": "Chinese liver fluke —",
+          "C": "Intestinal fluke",
+          "D": "Kidney fluke"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "95. What is a schistosomule?",
+        "choices": {
+          "A": "Cercariae",
+          "B": "Cercariae minus tail",
+          "C": "Free-swimming cercariae - '",
+          "D": "Metacercariae"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "96. The beef tapeworm is the common name for",
+        "choices": {
+          "A": "Taenia solium",
+          "B": "Hymenolepis nana",
+          "C": "E. granulosus",
+          "D": "T. sagineta"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "97. ys 97. Which tapeworm proglottid makes its way across the fecal specimen by doubling movements, and is seen und =r the microscope to have numerous regular uterine branches {more than 15) resembling tiiose of a trae?",
+        "choices": {
+          "A": "T. saginata",
+          "B": "T. solium",
+          "C": "D. latum",
+          "D": "D. caninum"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "98. Which of the following has an unarmed scolex?",
+        "choices": {
+          "A": "Dwarf tapeworm",
+          "B": "Beef tapeworm",
+          "C": "Pork tapeworm",
+          "D": "Dog tapeworm"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "99. Which sspecies of Taenia has 7 to 12 uterine branches? '",
+        "choices": {
+          "A": "T. solium",
+          "B": "T. saginata",
+          "C": "E. granulosus °",
+          "D": "None of the above"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "100. A hexacanth embryo enclosed in a radially striated shell b&longs to the genus",
+        "choices": {
+          "A": "Trichuris",
+          "B": "Taenia",
+          "C": "Trichostrongylus",
+          "D": "Trichineila"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "101. Which tapeworm infection has to be treated with great cere so that man does not acquire tne larval infection?",
+        "choices": {
+          "A": "Pragonimiasis",
+          "B": "Taeniasis solium",
+          "C": "Dipylidiasis",
+          "D": "Diphyllobothriasis"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "102. A bile stained egg that is 75 microns at its greatest diameter and contains a hexacanth embryo that lacks polar knobs or filaments is that of",
+        "choices": {
+          "A": "H. nana",
+          "B": "H. diminuta",
+          "C": "D. latum",
+          "D": "T. saginata"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "103. The \"dwarf\" tapeworm is another name for: _ \"te; oan",
+        "choices": {
+          "A": "H. nana -",
+          "B": "H. diminuta",
+          "C": "D. latum",
+          "D": "T. solium"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "104. | The eggs of Echinococcus granulosus are found in the feces of: 2",
+        "choices": {
+          "A": "Cats",
+          "B": "Fish",
+          "C": "Dogs ~--",
+          "D": "Cattle"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "105. Which of the following is found in the intermediate host of Echinococcus granulosus?.",
+        "choices": {
+          "A": "Adult worm",
+          "B": "Egg",
+          "C": "'Hydatid cyst",
+          "D": "Pseudocyst"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "106. Hydatid cyst infection of man Is due to a larva of the tapeworm",
+        "choices": {
+          "A": "D. latum",
+          "B": "F. hepatica",
+          "C": "E. granulosus",
+          "D": "H. nana"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "107. _ The first intermediate host of Diphyllobothrium laturn is",
+        "choices": {
+          "A": "Copepod",
+          "B": "Snail",
+          "C": "Fish",
+          "D": "Crab '"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "108. The second intermediate host of Diphyllobothrium latum are",
+        "choices": {
+          "A": "Cattle",
+          "B": "Water plants",
+          "C": "Crayfish",
+          "D": "Freshwater fish - '"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "109. What is the infective stage of the broad fish tapeworm to humans?",
+        "choices": {
+          "A": "Plerocercoid",
+          "B": "Coracidium",
+          "C": "Hydatid cyst",
+          "D": "Cysticercus"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "110. The eggs of this tapeworm are developed and have an operculum at one end and a small abopercularr knob at the other end. The tapeworm is:.",
+        "choices": {
+          "A": "D. latum",
+          "B": "D. caninum",
+          "C": "P. westermani",
+          "D": "H. diminuta"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "111. In some individuals, particularly those of Scandinavian extraction, this worm can cause megaloblastic ' anemia.",
+        "choices": {
+          "A": "D. latum",
+          "B": "D. caninum",
+          "C": "T. solium",
+          "D": "N. americanus"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "112. Which of the following worms have separate sexes?.",
+        "choices": {
+          "A": "Intestinal flukes",
+          "B": "Liver flukes",
+          "C": "Tapeworms",
+          "D": "Blood flukes"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "113. The male roundworm Is differentiated from tiie female roundworm by its",
+        "choices": {
+          "A": "Dorsally curved posterlor",
+          "B": "Pointed posterior",
+          "C": "Square posterior",
+          "D": "Roundad posterior"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "114. | The best way to demonstrate a pinworm infaction is by which of the following techniques?",
+        "choices": {
+          "A": "Rectal biopsy",
+          "B": "Third portion of urine voiding",
+          "C": "Cellophane tape preparation",
+          "D": "Flotatisn method 3S"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "115. The gravid female of Enterobius vermicularis deposits her embryonated eggs: 2%",
+        "choices": {
+          "A": "In the small intestines",
+          "B": "On the perianal skin",
+          "C": "In the large intestines",
+          "D": "In sputum"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "116. Eggs that average 60 microns in length, are oval with one flattened side, and contain a motile larva, are those of",
+        "choices": {
+          "A": "E. vermicularis",
+          "B": "T. solium",
+          "C": "A. lumbricoides",
+          "D": "N. americanus"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "117. i 117. Eggs that are bile-stained and have clear polar plugs belung to the",
+        "choices": {
+          "A": "Pinworm",
+          "B": "Large roundworm",
+          "C": "Whipworm",
+          "D": "Hookworm"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "118. | Which of the following nematodes does NOT have a free-living stage? it",
+        "choices": {
+          "A": "E. vermicuatris",
+          "B": "T. trichiura",
+          "C": "A. lumbricoides",
+          "D": "S. stercorelis"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "119. | Which stage of Trichuris trichiura is infective to humans?",
+        "choices": {
+          "A": "Rhabditiform larva",
+          "B": "Filariform larva",
+          "C": "Cyst",
+          "D": "Embryonated egg"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "120. eee 120. | Where does the larva of Ascaris lumbricoides go after it hatches in the small intestine? '",
+        "choices": {
+          "A": "Migrates through the blood, liver. lungs, pharynx, and then back to the small intestine",
+          "B": "Migrates through the blood, brain and pharynx",
+          "C": "Migrates through the lymph nodes and back to the intestsines",
+          "D": "It does not migrate"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "121. 'If an Ascaris egg!acks its bile-stained mammillated coat, we refer to the egg as",
+        "choices": {
+          "A": "Fertilized",
+          "B": "Unfertilized",
+          "C": "Decorticated",
+          "D": "Mature"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "122. — Trichuris trichiura, hookworm and form tha \"unholy three\" of roundworms.",
+        "choices": {
+          "A": "Enterobius vermicularis",
+          "B": "A. lumbricoides",
+          "C": "T. saginata",
+          "D": "H. nana"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "123. | Which of the following js the first staga larva of intestinal nematodes? '",
+        "choices": {
+          "A": "Filariform larva",
+          "B": "Microfilaria",
+          "C": "Rhabditiform larva",
+          "D": "Gercaria '"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "124. | Which of the following organisms cause infections where the larvae migrate intc the lymphatics and blood, lung, alveoli, bronchiolus, pharynx, and then the small intestines? i",
+        "choices": {
+          "A": "N. americanus",
+          "B": "A. duodenale",
+          "C": "S. stercoralis",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "125. | Which of the following is characteristic cf the eggs of hookworms?",
+        "choices": {
+          "A": "An embryo in the two-to-eight cell stage of cleavage",
+          "B": "Oval, thin shell °.",
+          "C": "Clear space betwee.: shell and embryo '",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "126. The helminth that induces a hypechromic microcylic anemia in its host is the",
+        "choices": {
+          "A": "Hookworm",
+          "B": "Whipworm",
+          "C": "Pinworm",
+          "D": "Threadworm"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "127. The rhahditiferm lava of the hookwarm has a",
+        "choices": {
+          "A": "Long bucca! cavity equa! to the width of the body",
+          "B": "Short buccal cavity equal to % the width of the body",
+          "C": "Medium length buccal cavity",
+          "D": "Ano buccal cavity"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "128. Which of the followirg larval worms enters the host by penetration of the skin?",
+        "choices": {
+          "A": "S. stercoralis",
+          "B": "A. duodenale",
+          "C": "N. americanus",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "129. A roundworm that inhabits the sma!l intestine and usually is demonstrated as rhabditiform larvae in the fecal specimen is the",
+        "choices": {
+          "A": "Hookworm",
+          "B": "Larae roundworm =",
+          "C": "Whipworm",
+          "D": "Threadworm"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "130. | Muscle biopsy is a diagnostic technique employed to detect",
+        "choices": {
+          "A": "Trichinosis",
+          "B": "Taeniasis",
+          "C": "Trichuriasis",
+          "D": "Ascariasis"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "131. | Which of the fcllowing roundworms give birth to her young?",
+        "choices": {
+          "A": "Wuchereria",
+          "B": "Mansonella",
+          "C": "Brugia",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "132. Aviviparous female nematode: \". =",
+        "choices": {
+          "A": "Produces living larvae",
+          "B": "Produces eggs",
+          "C": "Does not require a second intermediate host",
+          "D": "Does not require a male to produce eggs"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "133. One of the differential characteristics of the microfilariae is the presence or absence of",
+        "choices": {
+          "A": "Anucleus",
+          "B": "Asheath",
+          "C": "A dorsal curvature of the posterior end.",
+          "D": "Flagella 7"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "134. — Adults of filarial worms live in",
+        "choices": {
+          "A": "Blood and feces",
+          "B": "Urine and lymphatics.",
+          "C": "Subcutaneous tissue and blood 5",
+          "D": "Lymphatics and subcutaneous tissue"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "135. One of the pathological findings in infestations of Wuchereria is",
+        "choices": {
+          "A": "Blindness",
+          "B": "Elephntiasis",
+          "C": "Eys infcetions",
+          "D": "Fibrotic nodules '"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "136. » The intermediate host of the guinea worm is the",
+        "choices": {
+          "A": "Mosquito",
+          "B": "Black fly",
+          "C": "Fly",
+          "D": "Copepod"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "137. — Dirofilaria immitis is the",
+        "choices": {
+          "A": "Dog heartworm",
+          "B": "Dog hookworm",
+          "C": "Rat lungworm",
+          "D": "Cercarial dermatitis f"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "138. Dracunculus infections cause ulcers that",
+        "choices": {
+          "A": "On contact with water, release larvae",
+          "B": "Contain eggs",
+          "C": "Appear on the eye",
+          "D": "None of the above"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "139. | Which of the following microfilariae does NOT |:ave a sheath?",
+        "choices": {
+          "A": "Wuchereria",
+          "B": "Loa '",
+          "C": "Mansonella",
+          "D": "Brugia"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "140. — Which of the following is the eye worm? -.",
+        "choices": {
+          "A": "Wuchereria",
+          "B": "Brugia",
+          "C": "Onchocerca",
+          "D": "Loa"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "141. | Cutaneous larva migrans or creeping eruption is caused by: 3",
+        "choices": {
+          "A": "Larvae of pinworms",
+          "B": "Microfilariae",
+          "C": "Filariform larvae of dog hookworm 36",
+          "D": "Metacercariae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "142. | Which of the following causes a chronic cough; pulmonary and artery obstruction but no invasion of the heart in humans? 24%",
+        "choices": {
+          "A": "Dirofilaria immitis",
+          "B": "C. philippinensis",
+          "C": "Anisakis",
+          "D": "A. brasiliensis"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "143. | Which of the following is caused by the ingestion of snails by humans? '",
+        "choices": {
+          "A": "Dog hookworm",
+          "B": "Rat lungworm",
+          "C": "Dog heartworm",
+          "D": "Cat tapeworm"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "144. Cercarial dermatitis, commonly known as swimmer's itch, is caused by",
+        "choices": {
+          "A": "Larvae of roundworms",
+          "B": "Eggs of tapeworms",
+          "C": "Schistosomule",
+          "D": "Cercariae of schistosomes"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "145. | What is the scientific.name of the body of a tapeworm? ES",
+        "choices": {
+          "A": "Strobila °",
+          "B": "Scolex",
+          "C": "Rostellum",
+          "D": "Proglottid"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "146. The gravid segments of a tapeworm are filled with",
+        "choices": {
+          "A": "Male reproductive organs.",
+          "B": "Female reproductive organs",
+          "C": "Eggs",
+          "D": "Suckers"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "147. A six-hooked embryo is known as:",
+        "choices": {
+          "A": "Proglottid",
+          "B": "Scolex",
+          "C": "Strobila",
+          "D": "Hexacanth"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "148. \"Ground itch\" occurs in infections of hookworms at the:",
+        "choices": {
+          "A": "Site of larval penetration of the skin",
+          "B": "During larval migration",
+          "C": "Allergic reaction",
+          "D": "A and C"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "149. Direct examination of stool specimens stained with iodine make the trophozoite of the Protozoa stain what color?",
+        "choices": {
+          "A": "Yellow",
+          "B": "Brown",
+          "C": "Trophozoites are destroyed by iodine",
+          "D": "Do not stain"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "150. What color does the cytoplasm of protozoan cysts stain in an iodine wet stool preparation?",
+        "choices": {
+          "A": "Red",
+          "B": "Green",
+          "C": "Colorless",
+          "D": "Yellow-brown"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "151. | What color do chromatoid bodies of protozoan cysts stain in an iodine wet stool preparation?",
+        "choices": {
+          "A": "Yellow",
+          "B": "Brown",
+          "C": "Red",
+          "D": "Do not stain"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "152. | What is the advantage or the sedimentation method of concentrating stool specimens?",
+        "choices": {
+          "A": "All eggs will sediment",
+          "B": "Recovers operculated eggs",
+          "C": "Fecal debris and soluble material can b¢ removed",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "153. | Trophozoite;structures of protozoans, when stained with trichrome stain, appear",
+        "choices": {
+          "A": "Glycogen — colorless",
+          "B": "Nucleus — red-purple",
+          "C": "Charcot-Leyden crystals — bright red",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "154. When stained' with trichrome stain, chromatoid bodies appear what color?",
+        "choices": {
+          "A": "Bright to red",
+          "B": "Green",
+          "C": "Black",
+          "D": "Colorless"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "155. The preservative to be employed with the triciror ie stain is",
+        "choices": {
+          "A": "Formalin",
+          "B": "Alcohol",
+          "C": "Polyvinyl alcohol",
+          "D": "Saline"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "156. The ideal temperature at which to hold a fecal specimen for more than 1 hour is",
+        "choices": {
+          "A": "Freezer temperature",
+          "B": "Refrigerator temperature",
+          "C": "Roem temperature",
+          "D": "Incubator iemperature"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "157. The preferred specific gravity of zinc sulfate solution for the flotation method is",
+        "choices": {
+          "A": "1.01",
+          "B": "1.04",
+          "C": "1.18",
+          "D": "1.48"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "158. What type of blood specimen is preferred for preparing blood smears for protozoa?",
+        "choices": {
+          "A": "Finger puncture",
+          "B": "Venipuncture",
+          "C": "Arterial blood",
+          "D": "Plasma"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "159. What will happen if blood from a finger stick mixes with the alcohol used to clean the area?",
+        "choices": {
+          "A": "\"Fixes\" red blood cells",
+          "B": "Thick blood films become unsuitable for staining",
+          "C": "A and B",
+          "D": "Neither A nor B"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "160. Venipuncture blood is not recommended for.",
+        "choices": {
+          "A": "Malaria, Babesia, hemoflagellates",
+          "B": "Babesia, Cryptosporidium, hemoflagellates",
+          "C": "Amebae, malaria, Babesia",
+          "D": "Isospora, amebae, hemoflagellates"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "161. To detect stippling, prepare blood films venipuncture within: '",
+        "choices": {
+          "A": "1-2 minutes",
+          "B": "30 minutes to 1 hour z.ter being drawn",
+          "C": "2 hours after being drawn *",
+          "D": "§-10 minutes ' ALN Sept 2005:; RBB Sept 2005"
+        },
+        "answer": "B"
+      }
+    ],
+    "Virology": [
+      {
+        "question": "1. Amature virus particle centaining a nucleic acid core surrounded by a protein coat, with or without envelope, is called a: a",
+        "choices": {
+          "A": "Nucleocapsid",
+          "B": "Genome",
+          "C": "Virion",
+          "D": "Capsomer"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "2. Viruses are characterized by the presence of",
+        "choices": {
+          "A": "Mitochondrial CNA",
+          "B": "DNA and RNA",
+          "C": "Ribosamal RNA",
+          "D": "RNA"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "3. Whats the largest DNA 'rus?",
+        "choices": {
+          "A": "Herpesvirus",
+          "B": "Poxvirus",
+          "C": "Adenovirus",
+          "D": "Parvovirus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "4. Which of the following is the smallest RNA virus?.",
+        "choices": {
+          "A": "Paramyxovirus",
+          "B": "Togavirus",
+          "C": "Rhabdovirus",
+          "D": "Enterovirus"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "5. What is the first step in the replication cycle of a virus?",
+        "choices": {
+          "A": "Attachment and penetration",
+          "B": "Assembly of virion",
+          "C": "Uncoating",
+          "D": "Release"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "6. The virus capsid morphology is:. 2",
+        "choices": {
+          "A": "Square or round",
+          "B": "Long or short",
+          "C": "Ribbon-like or square",
+          "D": "Helical or icoszhedral"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "7. From what part of the virus is the envelope acquired?",
+        "choices": {
+          "A": "Nuclear or cytoplasinic membrane",
+          "B": "Nucleus or cytoplasm",
+          "C": "Capsomeres or ganornes",
+          "D": "mRNA or DNA '"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "8. Where is the site of virion assembly?",
+        "choices": {
+          "A": "Capsomere",
+          "B": "Nucleus or cytoplasm",
+          "C": "Genomes",
+          "D": "Membranes"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "9. Which of the following is 8 DNA virus?",
+        "choices": {
+          "A": "Retroviridae",
+          "B": "Orthomyxoviridae",
+          "C": "derpesviridae",
+          "D": "Paramyxoviridae"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "10. Which of the following is an RNA virus?",
+        "choices": {
+          "A": "Pseudomyxoviridae",
+          "B": "Papoviridae",
+          "C": "Herpesviridae",
+          "D": "Poxviridae"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "11. Specimens collected for virus isolation should be kept at",
+        "choices": {
+          "A": "37C",
+          "B": "20C",
+          "C": "4e",
+          "D": "20C"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "12. At what temperature should clinical specimens suspected of containing viruses be kept for transport that takes days?",
+        "choices": {
+          "A": "-70 C",
+          "B": "37 C",
+          "C": "4 C",
+          "D": "10 C"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "13. In what family of viruses, after primary infection, does an individual become latent!y infected and then the infection can be reactivated?",
+        "choices": {
+          "A": "Adenoviridae",
+          "B": "Herpesviridae",
+          "C": "Poxviridae",
+          "D": "Papovaviridae"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "14. Cytomegalovirus isolation is best accomplished using",
+        "choices": {
+          "A": "Monkey kidney cells",
+          "B": "A549 cells",
+          "C": "Human embryonic fibroblasts",
+          "D": "Embryonated hen's eggs"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "15. Which of the following viruses causes acute central nervous system disease in humans and animals?",
+        "choices": {
+          "A": "Rabies",
+          "B": "Influenza",
+          "C": "Mumps",
+          "D": "Measies"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "16. What specimen/s should be collected from a patient with suspected enteroviral meningitis?",
+        "choices": {
+          "A": "Stool",
+          "B": "Throat swab",
+          "C": "Cerebrospinal fluid",
+          "D": "All of the above"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "17. Influenza A viruses can be detected in cell cultures by",
+        "choices": {
+          "A": "Complement-fixation test",
+          "B": "Hemadsorption assay",
+          "C": "Hemagglutination-inhibition test",
+          "D": "Immunoperoxidase test"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "18. The best host systems for influenza virus isolation ara.'",
+        "choices": {
+          "A": "Monkey kidney cells and embryonated hen's eggs",
+          "B": "Monkey kidney cells and human embryonic fibroblasts",
+          "C": "Human embryonic fibroblasts and embryonated he-n's eggs 3",
+          "D": "Monkey kidney calls and A549 cells"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "19. What common antigen is cross-reactive in all human adenoviruses?",
+        "choices": {
+          "A": "Fiber",
+          "B": "Hexon",
+          "C": "Hemagglutinin",
+          "D": "Capsomere"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "20. He following characteristics are similar in both influenza and Parainfluenza viruses, except:.-",
+        "choices": {
+          "A": "Helical symmetry",
+          "B": "Lipid envelope",
+          "C": "Budding from cytoplasmic membrane",
+          "D": "Segmented RNA genome"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "21. Myxoviridae virus envelope contains both",
+        "choices": {
+          "A": "Neuraminidase and hemagglutinin",
+          "B": "Lipoprotein and nonsegmented nucleocapsid",
+          "C": "Lipid and double strandad DNA",
+          "D": "Hemagglutinin and nonsegmented nucleocapsid"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "22. Eosinophilic cytoplasmic inclusions are elementary bodies of the",
+        "choices": {
+          "A": "Herpesvirus",
+          "B": "Poxvirus",
+          "C": "Poliovirus",
+          "D": "Papilloma virus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "23. German measles is caused by: '",
+        "choices": {
+          "A": "Rubeola virus",
+          "B": "Rubella virus",
+          "C": "Varicella-zoster virus",
+          "D": "Vaccinia virus"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "24. What Is an alastrim infection? i",
+        "choices": {
+          "A": "Smallpox",
+          "B": "Chickenpox",
+          "C": "Mild form of smallpox",
+          "D": "Measles"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "25. Which of the following laboratory procedures is routi1ely used for the detection of hepatitis B virus (HBV) In blood donors? -)",
+        "choices": {
+          "A": "Solid-phase RIA",
+          "B": "ELISA",
+          "C": "Culture",
+          "D": "A and B"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "26. Which of the following laboratory procedures Is the most rapid method for diagnosis of a virus infection?. \"",
+        "choices": {
+          "A": "Culture",
+          "B": "Serological tests",
+          "C": "Direct electron microscopy",
+          "D": "Cytonathic effect (CPE) in cell cultures"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "27. What specimen/s should be collected from a patient with suspected influenza?",
+        "choices": {
+          "A": "Stool",
+          "B": "Throat swab",
+          "C": "Urine",
+          "D": "All of the above"
+        },
+        "answer": "B"
+      },
+      {
+        "question": "28. What virus group contains a double-stranded, segmented RNA genome? Symon paagpeneeniitl",
+        "choices": {
+          "A": "Herpesvirus",
+          "B": "Influenza virus",
+          "C": "Parainfluenza virus",
+          "D": "Reovirus"
+        },
+        "answer": "D"
+      },
+      {
+        "question": "29. Enteroviruses can be differentiated from rhinoviruses by: '",
+        "choices": {
+          "A": "Acid resistance",
+          "B": "Size determination",
+          "C": "Ether stability '",
+          "D": "Ribonuclease treatment"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "30. What virus is the most frequent cause of gastroenteritis in children during the winter months?",
+        "choices": {
+          "A": "Influenza viruses.",
+          "B": "Adenoviruses",
+          "C": "Rotavirus",
+          "D": "Hepatitis A virus"
+        },
+        "answer": "C"
+      },
+      {
+        "question": "31. All of the following groups of viruses are resistant to ether treatment, except",
+        "choices": {
+          "A": "Herpesviruses",
+          "B": "Adenoviruses",
+          "C": "Enteroviruses",
+          "D": "Reoviruses"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "32. The most common method for rapid electron microscopy examination Is",
+        "choices": {
+          "A": "Negative staining",
+          "B": "Acid-fast staining",
+          "C": "Gram stain",
+          "D": "Periodic acid-Schiff stain"
+        },
+        "answer": "A"
+      },
+      {
+        "question": "33. Various virus groups can be differentiated in negatively stained specimens by their:; '",
+        "choices": {
+          "A": "Envelope",
+          "B": "Cytoplasmic membrane",
+          "C": "Morphology",
+          "D": "Nucleus"
+        },
+        "answer": "C"
+      }
+    ]
+  },
+  "by": "Appollon Et Al",
+  "display_title": "Microbiology & Parasitology Quiz — By Appollon Et Al"
+}
